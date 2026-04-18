@@ -1,0 +1,44 @@
+.wrap {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 10px;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: .82rem;
+  font-weight: 600;
+  transition: all .2s;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.active {
+  background: linear-gradient(135deg, #6c63ff, #a78bfa);
+  border-color: transparent;
+  color: #fff;
+}
+
+.count {
+  background: rgba(255,255,255,.15);
+  border-radius: 99px;
+  padding: 1px 7px;
+  font-size: .72rem;
+}
+
+.active .count {
+  background: rgba(255,255,255,.25);
+}

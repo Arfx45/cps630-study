@@ -1,0 +1,162 @@
+.wrap { animation: slideIn .35s ease; }
+
+.cardWrap {
+  perspective: 1000px;
+  cursor: pointer;
+  margin-bottom: 16px;
+  min-height: 260px;
+}
+
+.card {
+  position: relative;
+  min-height: 260px;
+  transform-style: preserve-3d;
+  transition: transform .5s ease;
+  border-radius: var(--radius);
+}
+
+.card.flipped { transform: rotateY(180deg); }
+
+.face {
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  text-align: center;
+}
+
+.front {
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.back {
+  background: linear-gradient(135deg, rgba(108,99,255,.22), rgba(255,101,132,.16));
+  border: 1px solid rgba(108,99,255,.45);
+  transform: rotateY(180deg);
+}
+
+.faceHint {
+  font-size: .76rem;
+  color: var(--muted);
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.faceText {
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
+  font-weight: 600;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+.answer {
+  font-size: clamp(1.1rem, 3vw, 1.4rem);
+  font-weight: 700;
+  color: var(--green);
+  line-height: 1.4;
+}
+
+.resultBtns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 14px;
+  animation: fadeIn .2s ease;
+}
+
+.btnKnew {
+  padding: 10px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 700;
+  background: rgba(0,210,106,.18);
+  border: 1px solid rgba(0,210,106,.35);
+  color: var(--green);
+  transition: all .18s;
+}
+.btnKnew:hover { background: rgba(0,210,106,.28); transform: translateY(-1px); }
+
+.btnForgot {
+  padding: 10px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 700;
+  background: rgba(255,71,87,.18);
+  border: 1px solid rgba(255,71,87,.35);
+  color: var(--red);
+  transition: all .18s;
+}
+.btnForgot:hover { background: rgba(255,71,87,.28); transform: translateY(-1px); }
+
+.navRow {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.btnPrimary {
+  padding: 10px 24px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--accent), #a78bfa);
+  color: #fff;
+  transition: all .18s;
+}
+.btnPrimary:hover { opacity: .88; transform: translateY(-1px); }
+
+.btnGhost {
+  padding: 10px 22px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 700;
+  background: var(--surface2);
+  color: var(--text);
+  transition: all .18s;
+}
+.btnGhost:hover:not(:disabled) { border-color: var(--accent); }
+.btnGhost:disabled { opacity: .4; cursor: default; }
+
+.btnDanger {
+  padding: 10px 22px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 700;
+  background: rgba(255,71,87,.18);
+  border: 1px solid rgba(255,71,87,.3);
+  color: var(--red);
+  transition: all .18s;
+}
+.btnDanger:hover { background: rgba(255,71,87,.28); }
+
+.hint {
+  text-align: center;
+  font-size: .78rem;
+  color: var(--muted);
+}
+
+kbd {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-size: .75rem;
+  margin: 0 2px;
+}
