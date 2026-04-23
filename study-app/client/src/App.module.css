@@ -27,6 +27,37 @@
   font-size: .95rem;
 }
 
+.courseSelector {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.courseBtn {
+  padding: 8px 22px;
+  border-radius: 999px;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  color: var(--muted);
+  font-size: .9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .18s ease;
+}
+
+.courseBtn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.courseBtnActive {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 .loader {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(node -e \"require\\('./study-app/node_modules/xlsx'\\)\")",
+      "Bash(node convert_chy583.js)",
+      "Bash(node ../convert_chy583.js)",
+      "Bash(npm run *)"
+    ]
+  }
+}

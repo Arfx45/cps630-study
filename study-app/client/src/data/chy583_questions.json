@@ -1,0 +1,3957 @@
+[
+  {
+    "name": "Chapter 2",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What are the two main types of carbon-based fuels?",
+        "options": [
+          "Fossil fuels and nuclear fuels",
+          "Fossil fuels and biofuels",
+          "Biofuels and solar fuels",
+          "Coal and natural gas"
+        ],
+        "correct": "Fossil fuels and biofuels"
+      },
+      {
+        "num": 2,
+        "question": "Which type of carbon-based fuel is considered sustainable?",
+        "options": [
+          "Fossil fuels",
+          "Coal",
+          "Biofuels",
+          "Petroleum"
+        ],
+        "correct": "Biofuels"
+      },
+      {
+        "num": 3,
+        "question": "What is the approximate chemical formula for coal?",
+        "options": [
+          "C100H80O5NS",
+          "C135H96O9NS",
+          "C120H90O10NS",
+          "C150H100O8NS"
+        ],
+        "correct": "C135H96O9NS"
+      },
+      {
+        "num": 4,
+        "question": "Which grade of coal has the highest energy content?",
+        "options": [
+          "Lignite",
+          "Peat",
+          "Bituminous",
+          "Anthracite"
+        ],
+        "correct": "Anthracite"
+      },
+      {
+        "num": 5,
+        "question": "What is the energy content range of anthracite coal?",
+        "options": [
+          "9–19 kJ/g",
+          "15–25 kJ/g",
+          "26–35 kJ/g",
+          "30–35 kJ/g"
+        ],
+        "correct": "30–35 kJ/g"
+      },
+      {
+        "num": 6,
+        "question": "What is the energy content range of lignite coal?",
+        "options": [
+          "9–19 kJ/g",
+          "20–26 kJ/g",
+          "26–35 kJ/g",
+          "30–35 kJ/g"
+        ],
+        "correct": "9–19 kJ/g"
+      },
+      {
+        "num": 7,
+        "question": "Which coal type is found nearest to Earth's surface?",
+        "options": [
+          "Anthracite",
+          "Bituminous",
+          "Peat",
+          "Lignite"
+        ],
+        "correct": "Lignite"
+      },
+      {
+        "num": 8,
+        "question": "Which coal type is found deepest underground?",
+        "options": [
+          "Lignite",
+          "Peat",
+          "Bituminous",
+          "Anthracite"
+        ],
+        "correct": "Anthracite"
+      },
+      {
+        "num": 9,
+        "question": "What are hydrocarbons?",
+        "options": [
+          "Compounds of only carbon and oxygen",
+          "Compounds of carbon and hydrogen bonded to each other",
+          "Compounds of hydrogen and nitrogen",
+          "Compounds of carbon, hydrogen, and nitrogen"
+        ],
+        "correct": "Compounds of carbon and hydrogen bonded to each other"
+      },
+      {
+        "num": 10,
+        "question": "Unbranched alkanes are gases up to which carbon number?",
+        "options": [
+          "C2",
+          "C6",
+          "C4",
+          "C8"
+        ],
+        "correct": "C4"
+      },
+      {
+        "num": 11,
+        "question": "Unbranched alkanes are liquids in what carbon range?",
+        "options": [
+          "C2–C8",
+          "C5–C16",
+          "C10–C20",
+          "C1–C5"
+        ],
+        "correct": "C5–C16"
+      },
+      {
+        "num": 12,
+        "question": "What is the primary component of natural gas?",
+        "options": [
+          "Ethane",
+          "Propane",
+          "Butane",
+          "Methane"
+        ],
+        "correct": "Methane"
+      },
+      {
+        "num": 13,
+        "question": "What percentage of natural gas is methane?",
+        "options": [
+          "20–40%",
+          "40–60%",
+          "10–30%",
+          "60–90%"
+        ],
+        "correct": "60–90%"
+      },
+      {
+        "num": 14,
+        "question": "What is combustion?",
+        "options": [
+          "Slow absorption of oxygen by a fuel",
+          "Rapid combination of fuel with oxygen releasing heat and light",
+          "The separation of hydrocarbons by boiling point",
+          "The storage of chemical energy in a molecule"
+        ],
+        "correct": "Rapid combination of fuel with oxygen releasing heat and light"
+      },
+      {
+        "num": 15,
+        "question": "What are the most common products of combustion?",
+        "options": [
+          "CO and H2",
+          "CO2 and H2O",
+          "CO2 and N2",
+          "H2O and NO2"
+        ],
+        "correct": "CO2 and H2O"
+      },
+      {
+        "num": 16,
+        "question": "What is the balanced equation for methane combustion?",
+        "options": [
+          "CH4 + O2 → CO2 + H2O",
+          "CH4 + 2O2 → CO2 + 2H2O",
+          "2CH4 + O2 → CO2 + H2O",
+          "CH4 + O2 → CO + H2O"
+        ],
+        "correct": "CH4 + 2O2 → CO2 + 2H2O"
+      },
+      {
+        "num": 17,
+        "question": "In an exothermic reaction, energy change is:",
+        "options": [
+          "Positive — energy is absorbed",
+          "Zero — no energy change",
+          "Negative — energy is released",
+          "Variable depending on pressure"
+        ],
+        "correct": "Negative — energy is released"
+      },
+      {
+        "num": 18,
+        "question": "In an endothermic reaction, energy change is:",
+        "options": [
+          "Negative — energy is released",
+          "Zero — no change",
+          "Positive — energy is absorbed",
+          "Negative — energy is stored"
+        ],
+        "correct": "Positive — energy is absorbed"
+      },
+      {
+        "num": 19,
+        "question": "Which fuel has the highest heat of combustion per gram?",
+        "options": [
+          "Coal",
+          "Ethanol",
+          "Wood (glucose)",
+          "Methane (hydrocarbons)"
+        ],
+        "correct": "Methane (hydrocarbons)"
+      },
+      {
+        "num": 20,
+        "question": "What happens to heat of combustion as hydrogen-to-carbon ratio decreases?",
+        "options": [
+          "It increases",
+          "It stays the same",
+          "It decreases",
+          "It doubles"
+        ],
+        "correct": "It decreases"
+      },
+      {
+        "num": 21,
+        "question": "What happens to heat of combustion as oxygen content in a fuel increases?",
+        "options": [
+          "It increases",
+          "It stays the same",
+          "It doubles",
+          "It decreases"
+        ],
+        "correct": "It decreases"
+      },
+      {
+        "num": 22,
+        "question": "What is the heat of combustion of methane?",
+        "options": [
+          "–32.8 kJ/g",
+          "–44.4 kJ/g",
+          "–14.1 kJ/g",
+          "–50.1 kJ/g"
+        ],
+        "correct": "–50.1 kJ/g"
+      },
+      {
+        "num": 23,
+        "question": "What is the heat of combustion of octane?",
+        "options": [
+          "–50.1 kJ/g",
+          "–32.8 kJ/g",
+          "–26.8 kJ/g",
+          "–44.4 kJ/g"
+        ],
+        "correct": "–44.4 kJ/g"
+      },
+      {
+        "num": 24,
+        "question": "What is the heat of combustion of wood (glucose)?",
+        "options": [
+          "–32.8 kJ/g",
+          "–26.8 kJ/g",
+          "–50.1 kJ/g",
+          "–14.1 kJ/g"
+        ],
+        "correct": "–14.1 kJ/g"
+      },
+      {
+        "num": 25,
+        "question": "What is fracking used to extract?",
+        "options": [
+          "Coal from the surface",
+          "Oil and natural gas from hard shale rock formations",
+          "Uranium from sandstone",
+          "Hydrogen from deep water wells"
+        ],
+        "correct": "Oil and natural gas from hard shale rock formations"
+      },
+      {
+        "num": 26,
+        "question": "How deep does fracking drill into the Earth?",
+        "options": [
+          "100–500 feet",
+          "1,000–2,000 feet",
+          "5,000–10,000 feet (1–3 miles)",
+          "Over 10 miles"
+        ],
+        "correct": "5,000–10,000 feet (1–3 miles)"
+      },
+      {
+        "num": 27,
+        "question": "What is injected into the rock during fracking?",
+        "options": [
+          "Pure water only",
+          "Steam at high temperature",
+          "Fracking fluid (water, sand, and chemicals) under pressure",
+          "Acid to dissolve rock"
+        ],
+        "correct": "Fracking fluid (water, sand, and chemicals) under pressure"
+      },
+      {
+        "num": 28,
+        "question": "What process is used to separate crude oil into its components?",
+        "options": [
+          "Cracking",
+          "Reforming",
+          "Fractional distillation",
+          "Combustion"
+        ],
+        "correct": "Fractional distillation"
+      },
+      {
+        "num": 29,
+        "question": "What carbon chain length range makes up petrol (gasoline)?",
+        "options": [
+          "C1–C4",
+          "C5–C12",
+          "C12–C16",
+          "Above C20"
+        ],
+        "correct": "C5–C12"
+      },
+      {
+        "num": 30,
+        "question": "What carbon chain length range makes up diesel?",
+        "options": [
+          "C5–C12",
+          "C1–C4",
+          "C12 or more carbon atoms",
+          "C20 or more"
+        ],
+        "correct": "C12 or more carbon atoms"
+      },
+      {
+        "num": 31,
+        "question": "What is thermal cracking?",
+        "options": [
+          "Using a catalyst to split molecules at low temperature",
+          "Rearranging atoms within a molecule",
+          "Breaking large molecules by heating them to high temperature",
+          "Separating molecules by boiling point"
+        ],
+        "correct": "Breaking large molecules by heating them to high temperature"
+      },
+      {
+        "num": 32,
+        "question": "What is catalytic cracking?",
+        "options": [
+          "Breaking molecules by heating to very high temperatures",
+          "Using a catalyst to lower the temperature required for splitting molecules",
+          "Rearranging atoms within a molecule to form isomers",
+          "Separating crude oil fractions"
+        ],
+        "correct": "Using a catalyst to lower the temperature required for splitting molecules"
+      },
+      {
+        "num": 33,
+        "question": "What is catalytic reforming?",
+        "options": [
+          "Separating crude oil by boiling point",
+          "Breaking large molecules into smaller ones with heat",
+          "Rearranging atoms within a molecule to produce branched isomers",
+          "Adding oxygen to a fuel"
+        ],
+        "correct": "Rearranging atoms within a molecule to produce branched isomers"
+      },
+      {
+        "num": 34,
+        "question": "Why is iso-octane preferred over n-octane in gasoline engines?",
+        "options": [
+          "It has a higher boiling point",
+          "It is cheaper to produce",
+          "It prevents engine knock",
+          "It contains more energy per gram"
+        ],
+        "correct": "It prevents engine knock"
+      },
+      {
+        "num": 35,
+        "question": "What does a higher octane rating indicate?",
+        "options": [
+          "Fuel ignites easily under low compression",
+          "Fuel contains more oxygen",
+          "Fuel can withstand more compression before igniting",
+          "Fuel has a lower boiling point"
+        ],
+        "correct": "Fuel can withstand more compression before igniting"
+      },
+      {
+        "num": 36,
+        "question": "What was tetraethyl lead (TEL) used for in gasoline?",
+        "options": [
+          "To increase fuel energy content",
+          "To enhance the octane rating",
+          "To reduce sulfur content",
+          "To improve combustion efficiency"
+        ],
+        "correct": "To enhance the octane rating"
+      },
+      {
+        "num": 37,
+        "question": "What are the two main gasoline additives used after TEL was eliminated?",
+        "options": [
+          "Ethanol and methanol",
+          "MTBE and ethanol",
+          "Iso-octane and butanol",
+          "Propane and butane"
+        ],
+        "correct": "MTBE and ethanol"
+      },
+      {
+        "num": 38,
+        "question": "How much energy does ethanol release per mole?",
+        "options": [
+          "5,060 kJ/mol",
+          "2,800 kJ/mol",
+          "3,500 kJ/mol",
+          "1,240 kJ/mol"
+        ],
+        "correct": "1,240 kJ/mol"
+      },
+      {
+        "num": 39,
+        "question": "How much energy does octane release per mole?",
+        "options": [
+          "1,240 kJ/mol",
+          "3,200 kJ/mol",
+          "5,060 kJ/mol",
+          "4,000 kJ/mol"
+        ],
+        "correct": "5,060 kJ/mol"
+      },
+      {
+        "num": 40,
+        "question": "What percentage of ethanol is typically blended into gasoline?",
+        "options": [
+          "Up to 25%",
+          "Up to 50%",
+          "Up to 10%",
+          "Up to 5%"
+        ],
+        "correct": "Up to 10%"
+      },
+      {
+        "num": 41,
+        "question": "Why can't automobile engines run on pure ethanol?",
+        "options": [
+          "It is too flammable",
+          "It contains less energy per amount burned than gasoline hydrocarbons",
+          "It is too expensive",
+          "It does not combust at all"
+        ],
+        "correct": "It contains less energy per amount burned than gasoline hydrocarbons"
+      },
+      {
+        "num": 42,
+        "question": "What does breaking bonds in a chemical reaction require?",
+        "options": [
+          "Release of energy",
+          "No energy change",
+          "Input of energy",
+          "Formation of new products"
+        ],
+        "correct": "Input of energy"
+      },
+      {
+        "num": 43,
+        "question": "What does forming bonds in a chemical reaction do?",
+        "options": [
+          "Absorb energy",
+          "Require a catalyst",
+          "Release energy",
+          "Increase activation energy"
+        ],
+        "correct": "Release energy"
+      },
+      {
+        "num": 44,
+        "question": "Where is oil found underground?",
+        "options": [
+          "In underground rivers",
+          "In liquid pools beneath impermeable rock",
+          "Within pores of geologic rock formations like sandstone",
+          "In volcanic rock near the surface"
+        ],
+        "correct": "Within pores of geologic rock formations like sandstone"
+      },
+      {
+        "num": 45,
+        "question": "What is the full name of MTBE, a gasoline additive?",
+        "options": [
+          "Methyl trichloride butyl ether",
+          "Methyl tertiary-butyl ether",
+          "Methanol tertiary-butene ether",
+          "Mono-tertiary-butyl ethylene"
+        ],
+        "correct": "Methyl tertiary-butyl ether"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 3",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What happens to energy during each transformation in power generation?",
+        "options": [
+          "Energy is fully conserved with no loss",
+          "Energy is wasted during each transformation",
+          "Energy increases with each transformation",
+          "Energy is converted to matter"
+        ],
+        "correct": "Energy is wasted during each transformation"
+      },
+      {
+        "num": 2,
+        "question": "What are the two principal environmental impacts of CO2?",
+        "options": [
+          "Ozone depletion and acid rain",
+          "Lead poisoning and thermal pollution",
+          "Global warming and ocean acidification",
+          "CFC release and smog formation"
+        ],
+        "correct": "Global warming and ocean acidification"
+      },
+      {
+        "num": 3,
+        "question": "Unlike fossil fuels, how do biofuels interact with CO2?",
+        "options": [
+          "They produce more CO2 than fossil fuels",
+          "They do not produce any CO2 at all",
+          "They actively participate in the carbon cycle through photosynthesis",
+          "They absorb CO2 underground"
+        ],
+        "correct": "They actively participate in the carbon cycle through photosynthesis"
+      },
+      {
+        "num": 4,
+        "question": "What are the three main sources of CO2 emissions listed in the slides?",
+        "options": [
+          "Mining, agriculture, and industry",
+          "Power stations, vehicle use, and heating",
+          "Factories, aircraft, and shipping",
+          "Agriculture, deforestation, and volcanoes"
+        ],
+        "correct": "Power stations, vehicle use, and heating"
+      },
+      {
+        "num": 5,
+        "question": "What does carbon monoxide (CO) combine with in the blood?",
+        "options": [
+          "Plasma proteins",
+          "White blood cells",
+          "Hemoglobin",
+          "Red blood cell membranes"
+        ],
+        "correct": "Hemoglobin"
+      },
+      {
+        "num": 6,
+        "question": "What is carboxyhemoglobin (COHb)?",
+        "options": [
+          "Hemoglobin that carries extra oxygen",
+          "Hemoglobin combined with CO, ineffective at delivering oxygen to tissues",
+          "A protein that neutralizes carbon monoxide",
+          "A form of oxygen found in red blood cells"
+        ],
+        "correct": "Hemoglobin combined with CO, ineffective at delivering oxygen to tissues"
+      },
+      {
+        "num": 7,
+        "question": "What is the medical term for CO poisoning caused by conversion of Hb to COHb?",
+        "options": [
+          "Hypoxemia",
+          "Anemia",
+          "Carboxyhemoglobinemia",
+          "Methemoglobinemia"
+        ],
+        "correct": "Carboxyhemoglobinemia"
+      },
+      {
+        "num": 8,
+        "question": "What property do greenhouse gases share?",
+        "options": [
+          "They reflect all sunlight away from Earth",
+          "They freely absorb infrared radiation",
+          "They dissolve ozone in the stratosphere",
+          "They produce acid rain when they combine with water"
+        ],
+        "correct": "They freely absorb infrared radiation"
+      },
+      {
+        "num": 9,
+        "question": "Which of the following is NOT listed as a greenhouse gas in the slides?",
+        "options": [
+          "Water vapor (H2O)",
+          "Carbon dioxide (CO2)",
+          "Methane (CH4)",
+          "Hydrogen gas (H2)"
+        ],
+        "correct": "Hydrogen gas (H2)"
+      },
+      {
+        "num": 10,
+        "question": "What causes global warming according to the slides?",
+        "options": [
+          "Increased UV radiation from the sun",
+          "Increased concentration of greenhouse gases in the atmosphere",
+          "Depletion of the ozone layer releasing heat",
+          "Thermal pollution from power plants"
+        ],
+        "correct": "Increased concentration of greenhouse gases in the atmosphere"
+      },
+      {
+        "num": 11,
+        "question": "What are the health consequences of ozone layer depletion?",
+        "options": [
+          "More acid rain and flooding",
+          "Increased CO2 absorption in plants",
+          "Increased skin cancer, eye damage, and harm to biological species",
+          "Higher global temperatures only"
+        ],
+        "correct": "Increased skin cancer, eye damage, and harm to biological species"
+      },
+      {
+        "num": 12,
+        "question": "In what layer of the atmosphere does ozone depletion occur?",
+        "options": [
+          "Troposphere",
+          "Mesosphere",
+          "Thermosphere",
+          "Stratosphere"
+        ],
+        "correct": "Stratosphere"
+      },
+      {
+        "num": 13,
+        "question": "What does CFCs stand for?",
+        "options": [
+          "Carbon fluoride compounds",
+          "Chlorofluorocarbons",
+          "Chlorinated fuel composites",
+          "Carbon fluorinated chemicals"
+        ],
+        "correct": "Chlorofluorocarbons"
+      },
+      {
+        "num": 14,
+        "question": "Which of the following is a property of CFCs?",
+        "options": [
+          "High boiling point and highly flammable",
+          "Toxic and soluble in water",
+          "Low boiling point, chemically inert, nontoxic, nonflammable, insoluble in water",
+          "High reactivity and explosive"
+        ],
+        "correct": "Low boiling point, chemically inert, nontoxic, nonflammable, insoluble in water"
+      },
+      {
+        "num": 15,
+        "question": "Why are CFCs used as refrigerants and aerosol propellants?",
+        "options": [
+          "Because they are cheap and easy to produce",
+          "Because of their useful properties: low boiling point, inert, nontoxic, nonflammable",
+          "Because they are soluble in water",
+          "Because they absorb CO2 efficiently"
+        ],
+        "correct": "Because of their useful properties: low boiling point, inert, nontoxic, nonflammable"
+      },
+      {
+        "num": 16,
+        "question": "How does the chlorine radical from CFCs destroy ozone?",
+        "options": [
+          "It reacts with ozone to form chlorine gas and water",
+          "It breaks down the ozone molecule and the resulting ClO• radical destroys more ozone in a cycle",
+          "It combines with ozone to form a stable compound",
+          "It reflects UV radiation preventing ozone formation"
+        ],
+        "correct": "It breaks down the ozone molecule and the resulting ClO• radical destroys more ozone in a cycle"
+      },
+      {
+        "num": 17,
+        "question": "How many ozone molecules can be destroyed by breaking a single C-Cl bond?",
+        "options": [
+          "About 40",
+          "About 400",
+          "4,000 or more",
+          "40,000"
+        ],
+        "correct": "4,000 or more"
+      },
+      {
+        "num": 18,
+        "question": "What is the overall reaction when 2 ozone molecules are destroyed by CFCs?",
+        "options": [
+          "2O3 → O2 + 2O",
+          "2O3 → 3O2",
+          "O3 + Cl → ClO + O2",
+          "2O3 + Cl2 → 3O2 + Cl2"
+        ],
+        "correct": "2O3 → 3O2"
+      },
+      {
+        "num": 19,
+        "question": "How does NO2 contribute to ozone layer destruction?",
+        "options": [
+          "It directly absorbs UV radiation destroying ozone",
+          "NO2 reacts with ozone producing NO•, which reacts with more ozone — catalyzing destruction and regenerating NO2",
+          "It combines with ozone to form nitric acid",
+          "It releases chlorine radicals that attack ozone"
+        ],
+        "correct": "NO2 reacts with ozone producing NO•, which reacts with more ozone — catalyzing destruction and regenerating NO2"
+      },
+      {
+        "num": 20,
+        "question": "What is the overall equation for NO2 reacting with ozone?",
+        "options": [
+          "NO2 + O3 → NO3 + O2",
+          "2NO2 + O3 → N2O5 + O2",
+          "NO2 + 2O3(g) → 3O2(g) + NO2",
+          "NO + O3 → NO2 + O2"
+        ],
+        "correct": "NO2 + 2O3(g) → 3O2(g) + NO2"
+      },
+      {
+        "num": 21,
+        "question": "Which gas, similar to NO2, can also break down the ozone layer?",
+        "options": [
+          "Carbon dioxide (CO2)",
+          "Sulfur dioxide (SO2)",
+          "Methane (CH4)",
+          "Water vapor (H2O)"
+        ],
+        "correct": "Sulfur dioxide (SO2)"
+      },
+      {
+        "num": 22,
+        "question": "What is acid rain?",
+        "options": [
+          "Rain that contains dissolved CO2 only",
+          "The return to the terrestrial/aquatic environment of carbon, nitrogen, and sulfur oxides in acidic form",
+          "Rain caused by high temperatures evaporating industrial chemicals",
+          "Rain with a pH higher than 7"
+        ],
+        "correct": "The return to the terrestrial/aquatic environment of carbon, nitrogen, and sulfur oxides in acidic form"
+      },
+      {
+        "num": 23,
+        "question": "Which fossil fuel contains particularly large quantities of sulfur?",
+        "options": [
+          "Natural gas",
+          "Petroleum",
+          "Coal",
+          "Propane"
+        ],
+        "correct": "Coal"
+      },
+      {
+        "num": 24,
+        "question": "What acids are found in acid rain?",
+        "options": [
+          "HCl and HF",
+          "H2SO4 and HNO3",
+          "H3PO4 and HCl",
+          "HBr and H2SO4"
+        ],
+        "correct": "H2SO4 and HNO3"
+      },
+      {
+        "num": 25,
+        "question": "What effect does acid precipitation have on rivers and lakes?",
+        "options": [
+          "It raises the pH making them more alkaline",
+          "It has no measurable effect",
+          "The drop in pH has significant adverse effects on aquatic ecosystems",
+          "It increases the oxygen content of water"
+        ],
+        "correct": "The drop in pH has significant adverse effects on aquatic ecosystems"
+      },
+      {
+        "num": 26,
+        "question": "What was the pH of the storm in Scotland in 1974?",
+        "options": [
+          "4.5",
+          "3.2",
+          "2.4",
+          "1.8"
+        ],
+        "correct": "2.4"
+      },
+      {
+        "num": 27,
+        "question": "The rain in Kane, Pennsylvania on September 19, 1978 had a pH lower than what common substance?",
+        "options": [
+          "Battery acid",
+          "Lemon juice",
+          "Vinegar",
+          "Coffee"
+        ],
+        "correct": "Vinegar"
+      },
+      {
+        "num": 28,
+        "question": "What health effects can lead exposure cause?",
+        "options": [
+          "Only digestive problems",
+          "Only skin irritation",
+          "Nervous system damage, digestive problems, cancer, mental retardation, and brain disorders",
+          "Only lung disease"
+        ],
+        "correct": "Nervous system damage, digestive problems, cancer, mental retardation, and brain disorders"
+      },
+      {
+        "num": 29,
+        "question": "What is tetraethyl lead (TEL) used for in gasoline?",
+        "options": [
+          "To reduce sulfur emissions",
+          "To prevent engine knocking and engine damage",
+          "To increase fuel efficiency",
+          "To lower the octane rating"
+        ],
+        "correct": "To prevent engine knocking and engine damage"
+      },
+      {
+        "num": 30,
+        "question": "What pollutants does TEL release when it burns with fuel?",
+        "options": [
+          "CO2 and SO2",
+          "Lead oxides (PbO, Pb2O) and atomic Pb",
+          "NOx and ozone",
+          "CFCs and methane"
+        ],
+        "correct": "Lead oxides (PbO, Pb2O) and atomic Pb"
+      },
+      {
+        "num": 31,
+        "question": "Where is lead commonly found besides gasoline?",
+        "options": [
+          "In drinking water reservoirs only",
+          "In diesel, lead batteries, paints, and hair dye products",
+          "In natural gas pipelines",
+          "In solar panels"
+        ],
+        "correct": "In diesel, lead batteries, paints, and hair dye products"
+      },
+      {
+        "num": 32,
+        "question": "What is thermal pollution in the context of power generation?",
+        "options": [
+          "Heat released from burning coal warming the air directly",
+          "Water used to collect waste heat during power generation, increasing atmospheric temperature",
+          "CO2 trapping extra heat from the sun",
+          "Ozone depletion allowing more UV radiation to heat the Earth"
+        ],
+        "correct": "Water used to collect waste heat during power generation, increasing atmospheric temperature"
+      },
+      {
+        "num": 33,
+        "question": "Which of the following is a listed solution to environmental problems from energy production?",
+        "options": [
+          "Increasing fossil fuel consumption",
+          "Encouraging deforestation to create farmland",
+          "Clean renewable energy technologies and encouraging forestation",
+          "Reducing public awareness of energy issues"
+        ],
+        "correct": "Clean renewable energy technologies and encouraging forestation"
+      },
+      {
+        "num": 34,
+        "question": "What does CCS stand for?",
+        "options": [
+          "Clean Carbon Solutions",
+          "Carbon Collection System",
+          "Carbon Capture and Storage",
+          "Chemical Combustion Suppression"
+        ],
+        "correct": "Carbon Capture and Storage"
+      },
+      {
+        "num": 35,
+        "question": "What is the goal of Carbon Capture and Storage (CCS) technology?",
+        "options": [
+          "To increase coal production efficiency",
+          "To reduce carbon emissions by capturing CO2 at the source",
+          "To convert CO2 into oxygen using solar energy",
+          "To store fossil fuels underground for future use"
+        ],
+        "correct": "To reduce carbon emissions by capturing CO2 at the source"
+      },
+      {
+        "num": 36,
+        "question": "What is Direct Air Capture (DAC)?",
+        "options": [
+          "A method of capturing CO2 directly from factory smokestacks",
+          "A technology that removes CO2 directly from atmospheric air",
+          "A system for filtering particulates from engine exhaust",
+          "A process for converting CO2 into biofuel underground"
+        ],
+        "correct": "A technology that removes CO2 directly from atmospheric air"
+      },
+      {
+        "num": 37,
+        "question": "Why is DAC considered less viable than post-combustion CCS currently?",
+        "options": [
+          "DAC produces harmful byproducts",
+          "DAC requires rare earth metals",
+          "DAC has been widely accepted as too expensive to implement compared to source capture",
+          "DAC only works in cold climates"
+        ],
+        "correct": "DAC has been widely accepted as too expensive to implement compared to source capture"
+      },
+      {
+        "num": 38,
+        "question": "What was the APS 2011 'realistic' cost estimate for DAC?",
+        "options": [
+          "94 $/t-CO2",
+          "232 $/t-CO2",
+          "405 $/t-CO2",
+          "780 $/t-CO2"
+        ],
+        "correct": "780 $/t-CO2"
+      },
+      {
+        "num": 39,
+        "question": "What did Carbon Engineering's 2018 pilot data forecast for DAC costs?",
+        "options": [
+          "94–232 $/t-CO2",
+          "500–600 $/t-CO2",
+          "780–900 $/t-CO2",
+          "50–80 $/t-CO2"
+        ],
+        "correct": "94–232 $/t-CO2"
+      },
+      {
+        "num": 40,
+        "question": "When was Carbon Engineering founded and what is its mission?",
+        "options": [
+          "1999, to develop nuclear energy alternatives",
+          "2005, to commercialize solar energy storage",
+          "2009, to develop and commercialize technology that captures industrial-scale CO2 from air",
+          "2015, to build wind farms in Canada"
+        ],
+        "correct": "2009, to develop and commercialize technology that captures industrial-scale CO2 from air"
+      },
+      {
+        "num": 41,
+        "question": "What can the CO2 captured by Carbon Engineering be used for?",
+        "options": [
+          "Only stored underground permanently",
+          "Stored underground or synthesized into clean transportation fuels",
+          "Released back into the atmosphere after purification",
+          "Converted into oxygen for medical use"
+        ],
+        "correct": "Stored underground or synthesized into clean transportation fuels"
+      },
+      {
+        "num": 42,
+        "question": "What has atmospheric CO2 risen to due to reliance on climate self-regulation?",
+        "options": [
+          "200 ppm",
+          "300 ppm",
+          "350 ppm",
+          "400 ppm and rising"
+        ],
+        "correct": "400 ppm and rising"
+      },
+      {
+        "num": 43,
+        "question": "Which of the following can result in depletion of the ozone layer?",
+        "options": [
+          "Carbon dioxide and methane",
+          "CFCs only",
+          "Oxides of nitrogen and sulfur only",
+          "CFCs, oxides of nitrogen and sulfur — all of the above"
+        ],
+        "correct": "CFCs, oxides of nitrogen and sulfur — all of the above"
+      },
+      {
+        "num": 44,
+        "question": "What is the main concern related to CO2 emissions?",
+        "options": [
+          "Lead poisoning",
+          "Ozone layer depletion only",
+          "Global warming, enhanced greenhouse effect, and ocean acidification",
+          "Thermal pollution of water bodies"
+        ],
+        "correct": "Global warming, enhanced greenhouse effect, and ocean acidification"
+      },
+      {
+        "num": 45,
+        "question": "Which statement about carbon monoxide (CO) is correct?",
+        "options": [
+          "It is less reactive than oxygen so it rarely binds to hemoglobin",
+          "It only affects the lungs and not the blood",
+          "It combines with hemoglobin making it ineffective for delivering oxygen to bodily tissues",
+          "It combines with plasma proteins but not hemoglobin"
+        ],
+        "correct": "It combines with hemoglobin making it ineffective for delivering oxygen to bodily tissues"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 4",
+    "questions": [
+      {
+        "num": 1,
+        "question": "Why is energy storage important for electricity systems?",
+        "options": [
+          "Electricity demand fluctuates and supply must match demand",
+          "Power plants always run continuously",
+          "Renewable energy is always available",
+          "Energy is stored only for emergencies"
+        ],
+        "correct": "Electricity demand fluctuates and supply must match demand"
+      },
+      {
+        "num": 2,
+        "question": "Which of the following is NOT listed as an intermittent/alternative energy source in the slides?",
+        "options": [
+          "Wind",
+          "Solar",
+          "Nuclear",
+          "Tidal and wave energy"
+        ],
+        "correct": "Nuclear"
+      },
+      {
+        "num": 3,
+        "question": "What is the core principle behind energy storage for renewables?",
+        "options": [
+          "Energy is stored when supply exceeds demand and released when demand exceeds supply",
+          "Energy is always produced at a constant rate",
+          "Storage is only used for fossil fuels",
+          "Demand always matches supply automatically"
+        ],
+        "correct": "Energy is stored when supply exceeds demand and released when demand exceeds supply"
+      },
+      {
+        "num": 4,
+        "question": "In an exothermic reaction, the energy of the products compared to the reactants is:",
+        "options": [
+          "Lower (energy is released)",
+          "Higher (energy is absorbed)",
+          "Equal to the reactants",
+          "Equal to activation energy"
+        ],
+        "correct": "Lower (energy is released)"
+      },
+      {
+        "num": 5,
+        "question": "In an endothermic reaction, energy is:",
+        "options": [
+          "Absorbed by the products",
+          "Released by the reactants",
+          "Not involved",
+          "Converted directly to electricity"
+        ],
+        "correct": "Absorbed by the products"
+      },
+      {
+        "num": 6,
+        "question": "Which process is associated with energy storage according to the energy diagram in the slides?",
+        "options": [
+          "Endergonic/endothermic process",
+          "Exergonic/exothermic process",
+          "Combustion",
+          "Electrolysis only"
+        ],
+        "correct": "Endergonic/endothermic process"
+      },
+      {
+        "num": 7,
+        "question": "Which process is associated with energy production according to the energy diagram?",
+        "options": [
+          "Exergonic/exothermic process",
+          "Endergonic/endothermic process",
+          "Fischer-Tropsch process",
+          "Electrolysis"
+        ],
+        "correct": "Exergonic/exothermic process"
+      },
+      {
+        "num": 8,
+        "question": "What does the activation energy represent in a reaction energy diagram?",
+        "options": [
+          "The energy barrier that must be overcome to start the reaction",
+          "The net energy released by the reaction",
+          "The energy of the products",
+          "The temperature of the reaction"
+        ],
+        "correct": "The energy barrier that must be overcome to start the reaction"
+      },
+      {
+        "num": 9,
+        "question": "Which of the following is NOT one of the three main categories of energy storage systems listed in the slides?",
+        "options": [
+          "Nuclear",
+          "Mechanical/Electromechanical",
+          "Thermal",
+          "Chemical"
+        ],
+        "correct": "Nuclear"
+      },
+      {
+        "num": 10,
+        "question": "Which of the following is an example of electromechanical energy storage?",
+        "options": [
+          "Pumped water storage",
+          "Coal combustion",
+          "Methane production",
+          "Photovoltaic panels"
+        ],
+        "correct": "Pumped water storage"
+      },
+      {
+        "num": 11,
+        "question": "What is the potential energy of 1 cubic meter of water at a height of 360 m?",
+        "options": [
+          "3.6 million J (1 kWh)",
+          "1 million J (0.5 kWh)",
+          "7.2 million J (2 kWh)",
+          "360,000 J (0.1 kWh)"
+        ],
+        "correct": "3.6 million J (1 kWh)"
+      },
+      {
+        "num": 12,
+        "question": "A 100 × 100 m² artificial lake with an average depth of 5 m can store how many cubic meters of water?",
+        "options": [
+          "50,000 cubic meters",
+          "5,000 cubic meters",
+          "500,000 cubic meters",
+          "1,000 cubic meters"
+        ],
+        "correct": "50,000 cubic meters"
+      },
+      {
+        "num": 13,
+        "question": "At an elevation of 800 m, the potential energy stored in a 100×100×5 m lake is approximately:",
+        "options": [
+          "4×10⁸ kJ or 110,000 kWh",
+          "4×10⁶ kJ or 1,100 kWh",
+          "4×10¹⁰ kJ or 11,000,000 kWh",
+          "4×10⁴ kJ or 11 kWh"
+        ],
+        "correct": "4×10⁸ kJ or 110,000 kWh"
+      },
+      {
+        "num": 14,
+        "question": "The Marmora Mine in Ontario was originally closed in what year?",
+        "options": [
+          "1970",
+          "1950",
+          "1985",
+          "2000"
+        ],
+        "correct": "1970"
+      },
+      {
+        "num": 15,
+        "question": "How deep is the Marmora Mine that was converted into an energy storage reservoir?",
+        "options": [
+          "200 m",
+          "100 m",
+          "360 m",
+          "800 m"
+        ],
+        "correct": "200 m"
+      },
+      {
+        "num": 16,
+        "question": "In the Marmora Mine energy storage system, how is energy stored?",
+        "options": [
+          "Water is pumped into the pit, storing potential energy",
+          "Air is compressed into the mine shaft",
+          "Steam is produced and stored underground",
+          "Concrete blocks are stacked inside the mine"
+        ],
+        "correct": "Water is pumped into the pit, storing potential energy"
+      },
+      {
+        "num": 17,
+        "question": "Which of the following is also listed as a mechanical/electromechanical energy storage method?",
+        "options": [
+          "Flywheels",
+          "Ice batteries",
+          "Hydrogen fuel cells",
+          "Fischer-Tropsch synthesis"
+        ],
+        "correct": "Flywheels"
+      },
+      {
+        "num": 18,
+        "question": "Stacking and unstacking concrete blocks is an example of which type of energy storage?",
+        "options": [
+          "Mechanical (gravitational potential energy)",
+          "Chemical energy storage",
+          "Thermal energy storage",
+          "Electrochemical storage"
+        ],
+        "correct": "Mechanical (gravitational potential energy)"
+      },
+      {
+        "num": 19,
+        "question": "Thermal energy storage can serve which two main purposes?",
+        "options": [
+          "Heat storage and cold storage",
+          "Electrical storage and mechanical storage",
+          "Chemical storage and nuclear storage",
+          "Gravitational storage and magnetic storage"
+        ],
+        "correct": "Heat storage and cold storage"
+      },
+      {
+        "num": 20,
+        "question": "How much energy can 1 kg of steam (water vapor) at 100°C and 1 atm supply approximately?",
+        "options": [
+          "2,550 kJ",
+          "300 kJ",
+          "5,000 kJ",
+          "1,000 kJ"
+        ],
+        "correct": "2,550 kJ"
+      },
+      {
+        "num": 21,
+        "question": "How much energy can 1 kg of liquid water at 100°C supply for space heating approximately?",
+        "options": [
+          "300 kJ",
+          "2,550 kJ",
+          "1,000 kJ",
+          "500 kJ"
+        ],
+        "correct": "300 kJ"
+      },
+      {
+        "num": 22,
+        "question": "Sodium sulfite decahydrate (Na₂SO₄·10H₂O) is used in thermal storage because it:",
+        "options": [
+          "Exhibits temperature hysteresis, making it suitable for both cooling and heating",
+          "Has very high electrical conductivity",
+          "Produces hydrogen when heated",
+          "Is a semiconductor material"
+        ],
+        "correct": "Exhibits temperature hysteresis, making it suitable for both cooling and heating"
+      },
+      {
+        "num": 23,
+        "question": "What is the purpose of 'cold storage' in thermal energy systems?",
+        "options": [
+          "To store coolness for later use in refrigeration or air-conditioning",
+          "To freeze hydrogen for transport",
+          "To lower the temperature of batteries",
+          "To cool down combustion engines"
+        ],
+        "correct": "To store coolness for later use in refrigeration or air-conditioning"
+      },
+      {
+        "num": 24,
+        "question": "What are 'Ice Batteries' used for in thermal storage systems?",
+        "options": [
+          "Storing coolness (cold thermal energy storage)",
+          "Generating electricity from ice",
+          "Producing hydrogen from frozen water",
+          "Cooling nuclear reactors"
+        ],
+        "correct": "Storing coolness (cold thermal energy storage)"
+      },
+      {
+        "num": 25,
+        "question": "What is the chemical energy released from combustion of coal (in kJ/kg)?",
+        "options": [
+          "32,770 kJ/kg",
+          "49,010 kJ/kg",
+          "55,510 kJ/kg",
+          "142,700 kJ/kg"
+        ],
+        "correct": "32,770 kJ/kg"
+      },
+      {
+        "num": 26,
+        "question": "What is the chemical energy released from combustion of octane (in kJ/kg)?",
+        "options": [
+          "49,010 kJ/kg",
+          "32,770 kJ/kg",
+          "55,510 kJ/kg",
+          "142,700 kJ/kg"
+        ],
+        "correct": "49,010 kJ/kg"
+      },
+      {
+        "num": 27,
+        "question": "What is the chemical energy released from combustion of methane (in kJ/kg)?",
+        "options": [
+          "55,510 kJ/kg",
+          "49,010 kJ/kg",
+          "32,770 kJ/kg",
+          "142,700 kJ/kg"
+        ],
+        "correct": "55,510 kJ/kg"
+      },
+      {
+        "num": 28,
+        "question": "In an electrochemical cell, what does 'CaRed' stand for?",
+        "options": [
+          "Cathode is the site of Reduction",
+          "Cathode removes electrons",
+          "Carbon reacts in electrolyte",
+          "Current arrives at the reduction electrode"
+        ],
+        "correct": "Cathode is the site of Reduction"
+      },
+      {
+        "num": 29,
+        "question": "In an electrochemical cell, what does 'AnOx' stand for?",
+        "options": [
+          "Anode is the site of Oxidation",
+          "Anion oxidizes the cathode",
+          "Anode only conducts electrons",
+          "Alkaline neutralizes oxide"
+        ],
+        "correct": "Anode is the site of Oxidation"
+      },
+      {
+        "num": 30,
+        "question": "In the Cu/Zn electrochemical cell shown, what is the overall cell voltage?",
+        "options": [
+          "+1.10 V",
+          "+0.34 V",
+          "+0.76 V",
+          "+1.44 V"
+        ],
+        "correct": "+1.10 V"
+      },
+      {
+        "num": 31,
+        "question": "The standard reduction potential for Cu²⁺ + 2e⁻ → Cu⁰ is:",
+        "options": [
+          "+0.34 V",
+          "+0.76 V",
+          "-0.76 V",
+          "+1.10 V"
+        ],
+        "correct": "+0.34 V"
+      },
+      {
+        "num": 32,
+        "question": "The standard reduction potential for Zn²⁺ + 2e⁻ → Zn⁰ is:",
+        "options": [
+          "-0.76 V",
+          "+0.76 V",
+          "+0.34 V",
+          "-0.34 V"
+        ],
+        "correct": "-0.76 V"
+      },
+      {
+        "num": 33,
+        "question": "What produces electricity in an electrochemical cell?",
+        "options": [
+          "Transfer of electrons through an external circuit",
+          "Transfer of protons through a membrane",
+          "Combustion of the electrode material",
+          "Absorption of photons by the electrolyte"
+        ],
+        "correct": "Transfer of electrons through an external circuit"
+      },
+      {
+        "num": 34,
+        "question": "The difference in electrochemical potential between the two electrodes is called:",
+        "options": [
+          "Voltage (measured in volts)",
+          "Current (measured in amperes)",
+          "Resistance (measured in ohms)",
+          "Power (measured in watts)"
+        ],
+        "correct": "Voltage (measured in volts)"
+      },
+      {
+        "num": 35,
+        "question": "Which battery type has a maximum voltage of 3.6 V and is commonly used in laptop computers and cell phones?",
+        "options": [
+          "Lithium-ion / lithium-polymer",
+          "Nickel-cadmium (Ni-Cd)",
+          "Lead-acid",
+          "Alkaline"
+        ],
+        "correct": "Lithium-ion / lithium-polymer"
+      },
+      {
+        "num": 36,
+        "question": "Which battery type is commonly used in automobiles for starting, lighting, and ignition?",
+        "options": [
+          "Lead-acid (2.1 V)",
+          "Lithium-ion (3.6 V)",
+          "Nickel-cadmium (1.25 V)",
+          "Alkaline (1.5–3.6 V)"
+        ],
+        "correct": "Lead-acid (2.1 V)"
+      },
+      {
+        "num": 37,
+        "question": "Nickel-metal hydride (NiMH) batteries are used as a replacement for Ni-Cd batteries primarily because:",
+        "options": [
+          "They are less toxic and used in hybrid vehicles",
+          "They have a higher voltage",
+          "They are non-rechargeable",
+          "They have a lower energy density"
+        ],
+        "correct": "They are less toxic and used in hybrid vehicles"
+      },
+      {
+        "num": 38,
+        "question": "In a lithium-ion battery, what do lithium ions (Li⁺) do during charging and discharging?",
+        "options": [
+          "Shuttle back and forth between the two electrodes",
+          "Remain stationary in the electrolyte",
+          "Combine with oxygen to form Li₂O",
+          "Flow through an external wire as current"
+        ],
+        "correct": "Shuttle back and forth between the two electrodes"
+      },
+      {
+        "num": 39,
+        "question": "The energy density of a battery is calculated as:",
+        "options": [
+          "Voltage × number of movable Li ions / total battery weight or volume",
+          "Voltage × current × time",
+          "Mass × height × gravity",
+          "Total charge / voltage"
+        ],
+        "correct": "Voltage × number of movable Li ions / total battery weight or volume"
+      },
+      {
+        "num": 40,
+        "question": "Hybrid Electric Vehicles (HEVs) combine:",
+        "options": [
+          "Gasoline and battery technologies",
+          "Hydrogen and solar technologies",
+          "Diesel and wind technologies",
+          "Nuclear and battery technologies"
+        ],
+        "correct": "Gasoline and battery technologies"
+      },
+      {
+        "num": 41,
+        "question": "The average gasoline-powered vehicle emits how many tons of CO₂ per year?",
+        "options": [
+          "6–9 tons",
+          "1–2 tons",
+          "10–15 tons",
+          "20–25 tons"
+        ],
+        "correct": "6–9 tons"
+      },
+      {
+        "num": 42,
+        "question": "Each increase of 5 miles per gallon in fuel efficiency reduces CO₂ emissions by how much over a vehicle's lifetime?",
+        "options": [
+          "18 tons",
+          "5 tons",
+          "10 tons",
+          "25 tons"
+        ],
+        "correct": "18 tons"
+      },
+      {
+        "num": 43,
+        "question": "What is the chemical energy stored in hydrogen (in kJ/kg)?",
+        "options": [
+          "142,700 kJ/kg",
+          "49,500 kJ/kg",
+          "32,770 kJ/kg",
+          "55,510 kJ/kg"
+        ],
+        "correct": "142,700 kJ/kg"
+      },
+      {
+        "num": 44,
+        "question": "Which of the following is NOT listed as an advantage of hydrogen as an energy storage medium?",
+        "options": [
+          "It can easily be liquefied at room temperature without pressurization",
+          "It combines readily with oxygen to form harmless water",
+          "It can be used in fuel cells with high conversion efficiencies",
+          "It does not pose health threats if released into the environment"
+        ],
+        "correct": "It can easily be liquefied at room temperature without pressurization"
+      },
+      {
+        "num": 45,
+        "question": "In the synthetic diesel production system for renewable energy storage, what process converts syngas (H₂ + CO) into diesel?",
+        "options": [
+          "The Fischer-Tropsch (FT) process",
+          "The Haber-Bosch process",
+          "Steam methane reforming",
+          "Electrolysis"
+        ],
+        "correct": "The Fischer-Tropsch (FT) process"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 5",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What does biomass encompass?",
+        "options": [
+          "Only wood and coal",
+          "All plant matter and organic waste from plants, humans, animals, and aquatic life",
+          "Only fossil fuels",
+          "Only agricultural crops"
+        ],
+        "correct": "All plant matter and organic waste from plants, humans, animals, and aquatic life"
+      },
+      {
+        "num": 2,
+        "question": "Which of the following is NOT listed as a type of biomass?",
+        "options": [
+          "Aquatic plants/algae",
+          "Animal waste",
+          "Natural gas extracted from rock formations",
+          "Methane from anaerobic decomposition"
+        ],
+        "correct": "Natural gas extracted from rock formations"
+      },
+      {
+        "num": 3,
+        "question": "How does biomass store energy from the sun?",
+        "options": [
+          "As electrical energy in plant cells",
+          "As nuclear energy in plant nuclei",
+          "As chemical energy through photosynthesis",
+          "As thermal energy in plant roots"
+        ],
+        "correct": "As chemical energy through photosynthesis"
+      },
+      {
+        "num": 4,
+        "question": "What is the energy stored per mole of glucose during photosynthesis?",
+        "options": [
+          "48,000 J",
+          "480,000 J",
+          "4,800,000 J",
+          "4,800 J"
+        ],
+        "correct": "480,000 J"
+      },
+      {
+        "num": 5,
+        "question": "What is the solar-to-biomass conversion efficiency of plants?",
+        "options": [
+          "10–20%",
+          "5–10%",
+          "0.1–1.5%",
+          "20–30%"
+        ],
+        "correct": "0.1–1.5%"
+      },
+      {
+        "num": 6,
+        "question": "Which conversion pathway produces biogas from bulk biomass?",
+        "options": [
+          "Thermochemical conversion",
+          "Burnt directly",
+          "Anaerobic digestion",
+          "Lipid extraction"
+        ],
+        "correct": "Anaerobic digestion"
+      },
+      {
+        "num": 7,
+        "question": "What does thermochemical conversion of bulk biomass produce?",
+        "options": [
+          "Bioalcohol and biodiesel",
+          "Biogas and electricity",
+          "Syngas, pyrolysis oil, and biochar",
+          "Ethanol and methanol only"
+        ],
+        "correct": "Syngas, pyrolysis oil, and biochar"
+      },
+      {
+        "num": 8,
+        "question": "According to the carbon life cycle of biomass fuel, when trees are burned, they emit CO2 equivalent to:",
+        "options": [
+          "Double what they absorbed",
+          "Half of what they absorbed",
+          "The same amount they emit when rotting organically",
+          "No CO2 at all"
+        ],
+        "correct": "The same amount they emit when rotting organically"
+      },
+      {
+        "num": 9,
+        "question": "In OECD countries, which of the following is NOT a major form of biomass used for energy?",
+        "options": [
+          "Wood for domestic heating and cooking",
+          "Alcohol mixed with gasoline",
+          "Methane from anaerobic decomposition of waste",
+          "Direct combustion of crude oil"
+        ],
+        "correct": "Direct combustion of crude oil"
+      },
+      {
+        "num": 10,
+        "question": "Approximately how much freshwater is needed to produce one gallon of ethanol from corn?",
+        "options": [
+          "10 gallons",
+          "100 gallons",
+          "1,000 gallons",
+          "10,000 gallons"
+        ],
+        "correct": "1,000 gallons"
+      },
+      {
+        "num": 11,
+        "question": "How much energy do plants produce per square metre?",
+        "options": [
+          "5 W/m²",
+          "0.5 W/m²",
+          "50 W/m²",
+          "0.05 W/m²"
+        ],
+        "correct": "0.5 W/m²"
+      },
+      {
+        "num": 12,
+        "question": "Based on practical calculations, what fraction of Canada's area would need to be covered by biomass crops to replace fossil fuels?",
+        "options": [
+          "1/2",
+          "1/4",
+          "1/10",
+          "All of it"
+        ],
+        "correct": "1/10"
+      },
+      {
+        "num": 13,
+        "question": "What is the chemical formula for ethanol (bioethanol)?",
+        "options": [
+          "CH₃OH",
+          "C₂H₅OH",
+          "C₃H₇OH",
+          "C₆H₁₂O₆"
+        ],
+        "correct": "C₂H₅OH"
+      },
+      {
+        "num": 14,
+        "question": "Which crops are commonly used to produce bioethanol?",
+        "options": [
+          "Soybeans, canola, and cotton",
+          "Corn, sugar cane, and sweet sorghum",
+          "Palm, pumpkin seeds, and olives",
+          "Rice, wheat, and barley only"
+        ],
+        "correct": "Corn, sugar cane, and sweet sorghum"
+      },
+      {
+        "num": 15,
+        "question": "What is 'gasohol'?",
+        "options": [
+          "100% pure ethanol fuel",
+          "85% ethanol and 15% gasoline (E85)",
+          "10% ethanol and 90% gasoline by volume (E10)",
+          "50% ethanol and 50% gasoline"
+        ],
+        "correct": "10% ethanol and 90% gasoline by volume (E10)"
+      },
+      {
+        "num": 16,
+        "question": "What effect does adding ethanol to gasoline have on fuel performance?",
+        "options": [
+          "It increases km per litre significantly",
+          "It has no effect on performance",
+          "It reduces the specific energy; a car on E15 gets ~90% km/L vs pure gasoline",
+          "It doubles the octane rating"
+        ],
+        "correct": "It reduces the specific energy; a car on E15 gets ~90% km/L vs pure gasoline"
+      },
+      {
+        "num": 17,
+        "question": "What percentage of denatured ethanol does E85 contain?",
+        "options": [
+          "15%",
+          "50%",
+          "85%",
+          "100%"
+        ],
+        "correct": "85%"
+      },
+      {
+        "num": 18,
+        "question": "Biodiesel is primarily produced from:",
+        "options": [
+          "Coal and heavy crude oil",
+          "Oily seeds such as cotton seeds, palm oil, olive oil residue, and pumpkin seeds",
+          "Natural gas and methanol",
+          "Corn starch and sugar cane"
+        ],
+        "correct": "Oily seeds such as cotton seeds, palm oil, olive oil residue, and pumpkin seeds"
+      },
+      {
+        "num": 19,
+        "question": "Do standard diesel engines need modification to run on biodiesel?",
+        "options": [
+          "Yes, major engine overhaul required",
+          "Yes, only the fuel injectors need replacing",
+          "No, standard diesel engines do not need modification",
+          "Yes, a new fuel pump is always required"
+        ],
+        "correct": "No, standard diesel engines do not need modification"
+      },
+      {
+        "num": 20,
+        "question": "Which of the following is a disadvantage of biomass related to food supply?",
+        "options": [
+          "Biomass produces too much food",
+          "Crops like corn and sugar cane used for energy compete with food — the 'to eat or to burn' dilemma",
+          "Biomass only grows in deserts",
+          "Biomass crops require no water"
+        ],
+        "correct": "Crops like corn and sugar cane used for energy compete with food — the 'to eat or to burn' dilemma"
+      },
+      {
+        "num": 21,
+        "question": "What is a key environmental effect of growing biomass for energy related to water?",
+        "options": [
+          "Biomass purifies groundwater",
+          "Biomass crops reduce overall irrigation needs",
+          "High requirements for fresh water for irrigation and processing",
+          "Biomass increases rainfall in dry regions"
+        ],
+        "correct": "High requirements for fresh water for irrigation and processing"
+      },
+      {
+        "num": 22,
+        "question": "Anaerobic decomposition of biomass always unintentionally produces which greenhouse gas?",
+        "options": [
+          "Carbon dioxide only",
+          "Nitrogen dioxide",
+          "Methane, which contributes to global warming",
+          "Ozone"
+        ],
+        "correct": "Methane, which contributes to global warming"
+      },
+      {
+        "num": 23,
+        "question": "According to the future outlook of biomass, what is considered a GOOD use?",
+        "options": [
+          "Using food crops like corn for large-scale fuel production",
+          "Converting vast tracts of farmland into energy crop fields",
+          "Using agricultural and forestry wastes in co-firing and extracting biofuels from waste",
+          "Burning forests to generate electricity"
+        ],
+        "correct": "Using agricultural and forestry wastes in co-firing and extracting biofuels from waste"
+      },
+      {
+        "num": 24,
+        "question": "When was the Atikokan Generating Station converted to biomass operation?",
+        "options": [
+          "1985",
+          "2000",
+          "2014",
+          "2020"
+        ],
+        "correct": "2014"
+      },
+      {
+        "num": 25,
+        "question": "What is the power capacity of the Atikokan Generating Station?",
+        "options": [
+          "150 MW",
+          "205 MW",
+          "500 MW",
+          "75 MW"
+        ],
+        "correct": "205 MW"
+      },
+      {
+        "num": 26,
+        "question": "What fuel does the Thunder Bay Generating Station use after its conversion?",
+        "options": [
+          "Natural gas",
+          "Coal",
+          "Wood pellets (advanced biomass)",
+          "Municipal waste"
+        ],
+        "correct": "Wood pellets (advanced biomass)"
+      },
+      {
+        "num": 27,
+        "question": "What is the largest single source of renewable energy in Canada by percentage?",
+        "options": [
+          "Wind (5.4%)",
+          "Solid biomass (22.6%)",
+          "Hydro (67.5%)",
+          "Solar photovoltaic (0.5%)"
+        ],
+        "correct": "Hydro (67.5%)"
+      },
+      {
+        "num": 28,
+        "question": "What percentage of Canada's total renewable energy comes from solid biomass (wood/waste)?",
+        "options": [
+          "5.4%",
+          "67.5%",
+          "22.6%",
+          "1.7%"
+        ],
+        "correct": "22.6%"
+      },
+      {
+        "num": 29,
+        "question": "What is the conversion efficiency disadvantage of biomass compared to photovoltaic solar cells?",
+        "options": [
+          "Biomass is more efficient than solar PV",
+          "Both have equal efficiency around 15%",
+          "Biomass conversion efficiency (0.1–1.5%) is significantly lower than solar PV",
+          "Biomass is only slightly less efficient"
+        ],
+        "correct": "Biomass conversion efficiency (0.1–1.5%) is significantly lower than solar PV"
+      },
+      {
+        "num": 30,
+        "question": "In the future outlook, what is expected to INCREASE for biomass production?",
+        "options": [
+          "Energy crop production on large farmlands",
+          "Biomass from waste products",
+          "Corn-based ethanol output",
+          "Deforestation for biomass"
+        ],
+        "correct": "Biomass from waste products"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 6",
+    "questions": [
+      {
+        "num": 1,
+        "question": "Why is nuclear fuel considered significantly more efficient than fossil fuels?",
+        "options": [
+          "It produces no heat",
+          "It is about 8,000 times more efficient than fossil fuels",
+          "It requires no processing",
+          "It burns at higher temperatures"
+        ],
+        "correct": "It is about 8,000 times more efficient than fossil fuels"
+      },
+      {
+        "num": 2,
+        "question": "What is radioactivity?",
+        "options": [
+          "The emission of light from heated metals",
+          "The spontaneous transformation of an unstable nucleus into another element",
+          "The absorption of neutrons by a stable nucleus",
+          "The splitting of a heavy nucleus by a neutron"
+        ],
+        "correct": "The spontaneous transformation of an unstable nucleus into another element"
+      },
+      {
+        "num": 3,
+        "question": "What does 'half-life' (t₁/₂) mean?",
+        "options": [
+          "The time for a sample to completely decay",
+          "The time for half the atoms to fission",
+          "The time for radioactivity to fall to one-half its initial value",
+          "The time between two successive chain reactions"
+        ],
+        "correct": "The time for radioactivity to fall to one-half its initial value"
+      },
+      {
+        "num": 4,
+        "question": "How long is the half-life of plutonium-239?",
+        "options": [
+          "8.5 minutes",
+          "30.2 years",
+          "5,715 years",
+          "24,110 years"
+        ],
+        "correct": "24,110 years"
+      },
+      {
+        "num": 5,
+        "question": "Which radioisotope has the shortest half-life listed in the slides?",
+        "options": [
+          "Iodine-131",
+          "Radon-222",
+          "Plutonium-231",
+          "Thorium-234"
+        ],
+        "correct": "Plutonium-231"
+      },
+      {
+        "num": 6,
+        "question": "What radiation dose (in Sievert) is likely to cause death?",
+        "options": [
+          "0.25–0.50 Sv",
+          "1.00–2.00 Sv",
+          "2.00–5.00 Sv",
+          "5.00 Sv or more"
+        ],
+        "correct": "5.00 Sv or more"
+      },
+      {
+        "num": 7,
+        "question": "Who first demonstrated nuclear fission in 1938?",
+        "options": [
+          "Einstein and Bohr",
+          "Hahn and Strassmann",
+          "Fermi and Oppenheimer",
+          "Curie and Rutherford"
+        ],
+        "correct": "Hahn and Strassmann"
+      },
+      {
+        "num": 8,
+        "question": "In the fission of U-235, approximately how many free neutrons are released?",
+        "options": [
+          "Zero — neutrons are consumed",
+          "Exactly one neutron",
+          "Typically two or three neutrons",
+          "Ten or more neutrons"
+        ],
+        "correct": "Typically two or three neutrons"
+      },
+      {
+        "num": 9,
+        "question": "What is the critical mass of U-235 needed for spontaneous fission?",
+        "options": [
+          "1 kg",
+          "5 kg",
+          "15 kg",
+          "100 kg"
+        ],
+        "correct": "15 kg"
+      },
+      {
+        "num": 10,
+        "question": "Using E = mc², how much energy (in joules) is released by fissioning 1.0 kg of U-235 (0.1% mass loss)?",
+        "options": [
+          "9.0 × 10¹⁰ J",
+          "9.0 × 10¹³ J",
+          "9.0 × 10¹⁶ J",
+          "9.0 × 10¹⁹ J"
+        ],
+        "correct": "9.0 × 10¹³ J"
+      },
+      {
+        "num": 11,
+        "question": "How does a nuclear power plant differ from a conventional power plant?",
+        "options": [
+          "It uses turbines instead of generators",
+          "The reactor replaces the boiler/combustion chamber",
+          "It produces DC current instead of AC",
+          "It does not use steam at all"
+        ],
+        "correct": "The reactor replaces the boiler/combustion chamber"
+      },
+      {
+        "num": 12,
+        "question": "What are the four main components of a nuclear reactor?",
+        "options": [
+          "Core, shield, pump, generator",
+          "Fuel, moderator/coolant, control rods, safety devices",
+          "Uranium, graphite, water, steam",
+          "Fission chamber, turbine, condenser, cooling tower"
+        ],
+        "correct": "Fuel, moderator/coolant, control rods, safety devices"
+      },
+      {
+        "num": 13,
+        "question": "What chemical form is uranium fuel typically used in inside a reactor?",
+        "options": [
+          "Pure metallic uranium (U)",
+          "Uranium hexafluoride (UF₆)",
+          "Uranium dioxide (UO₂)",
+          "Uranium carbide (UC)"
+        ],
+        "correct": "Uranium dioxide (UO₂)"
+      },
+      {
+        "num": 14,
+        "question": "Which uranium isotope is the only naturally occurring fissile material?",
+        "options": [
+          "U-234",
+          "U-235",
+          "U-238",
+          "Pu-239"
+        ],
+        "correct": "U-235"
+      },
+      {
+        "num": 15,
+        "question": "What percentage of U-235 does slightly enriched reactor fuel typically contain?",
+        "options": [
+          "0.7%",
+          "2.0–3.5%",
+          "10–15%",
+          "90%"
+        ],
+        "correct": "2.0–3.5%"
+      },
+      {
+        "num": 16,
+        "question": "Which element is commonly used to make control rods because it absorbs neutrons?",
+        "options": [
+          "Lead",
+          "Boron",
+          "Carbon",
+          "Zirconium"
+        ],
+        "correct": "Boron"
+      },
+      {
+        "num": 17,
+        "question": "What reaction occurs in a boron control rod when it absorbs a neutron?",
+        "options": [
+          "B-10 + n → Li-7 + He-4",
+          "B-10 + n → C-12 + gamma",
+          "B-10 + n → Be-9 + H-1",
+          "B-10 + n → N-14 + e⁻"
+        ],
+        "correct": "B-10 + n → Li-7 + He-4"
+      },
+      {
+        "num": 18,
+        "question": "What is the key difference between the CANDU reactor and a standard pressurized water reactor (PWR)?",
+        "options": [
+          "CANDU uses graphite as a moderator",
+          "CANDU uses heavy water (D₂O) as coolant and moderator with natural uranium fuel",
+          "CANDU operates at much higher temperatures",
+          "CANDU burns plutonium instead of uranium"
+        ],
+        "correct": "CANDU uses heavy water (D₂O) as coolant and moderator with natural uranium fuel"
+      },
+      {
+        "num": 19,
+        "question": "Why does a light-water (H₂O) reactor require enriched uranium while the CANDU does not?",
+        "options": [
+          "H₂O produces more neutrons per fission",
+          "H₂O has a higher capture cross-section for neutrons, absorbing more of them",
+          "H₂O moderates neutrons too slowly",
+          "D₂O is cheaper to produce than H₂O"
+        ],
+        "correct": "H₂O has a higher capture cross-section for neutrons, absorbing more of them"
+      },
+      {
+        "num": 20,
+        "question": "What caused the Three Mile Island (TMI-2) accident in 1979?",
+        "options": [
+          "An earthquake destroyed the coolant pipes",
+          "Failure of a condensate pump and a non-operational emergency cooling system",
+          "Operators deliberately disabled the reactor",
+          "A hydrogen gas explosion blew off the reactor shield"
+        ],
+        "correct": "Failure of a condensate pump and a non-operational emergency cooling system"
+      },
+      {
+        "num": 21,
+        "question": "What was the maximum temperature reached inside TMI-2 during the accident?",
+        "options": [
+          "500 °C",
+          "1,000 °C",
+          "2,100 °C",
+          "5,000 °C"
+        ],
+        "correct": "2,100 °C"
+      },
+      {
+        "num": 22,
+        "question": "What made the Chernobyl accident more catastrophic than TMI?",
+        "options": [
+          "Chernobyl used enriched uranium while TMI used natural uranium",
+          "The graphite control rods caught fire and the reactor shield was destroyed, releasing radioactive material",
+          "Chernobyl had no containment building at all",
+          "The reactor exploded because of a fission bomb design"
+        ],
+        "correct": "The graphite control rods caught fire and the reactor shield was destroyed, releasing radioactive material"
+      },
+      {
+        "num": 23,
+        "question": "What triggered the Fukushima nuclear disaster?",
+        "options": [
+          "Operator error during a safety test",
+          "A pipeline failure causing coolant loss",
+          "An earthquake followed by a tsunami that knocked out electrical generators for cooling",
+          "A hydrogen leak ignited near the fuel rods"
+        ],
+        "correct": "An earthquake followed by a tsunami that knocked out electrical generators for cooling"
+      },
+      {
+        "num": 24,
+        "question": "All three major nuclear accidents shared which common cause?",
+        "options": [
+          "Use of enriched uranium fuel",
+          "Loss of coolant to the reactor core",
+          "Failure of the control rod system",
+          "Design flaws in containment structures"
+        ],
+        "correct": "Loss of coolant to the reactor core"
+      },
+      {
+        "num": 25,
+        "question": "What is the purpose of a fast breeder reactor (FBR)?",
+        "options": [
+          "To produce electricity more cheaply than conventional reactors",
+          "To convert fertile U-238 into fissile Pu-239 while also producing heat/steam",
+          "To run on thorium instead of uranium",
+          "To cool the reactor with liquid metal instead of water"
+        ],
+        "correct": "To convert fertile U-238 into fissile Pu-239 while also producing heat/steam"
+      },
+      {
+        "num": 26,
+        "question": "For how many years could North American high-grade uranium reserves supply energy if only U-235 is used?",
+        "options": [
+          "~10 years",
+          "~100 years",
+          "~5,500 years",
+          "~30,000 years"
+        ],
+        "correct": "~100 years"
+      },
+      {
+        "num": 27,
+        "question": "What is nuclear fusion?",
+        "options": [
+          "Splitting of a heavy nucleus into two smaller nuclei",
+          "Combining light nuclei to form a heavier nucleus, releasing energy",
+          "Decay of an unstable isotope by emitting radiation",
+          "Converting fertile isotopes into fissile isotopes"
+        ],
+        "correct": "Combining light nuclei to form a heavier nucleus, releasing energy"
+      },
+      {
+        "num": 28,
+        "question": "How much energy is released by forming a single nucleus of helium-4 from hydrogen nuclei?",
+        "options": [
+          "0.0287 MeV",
+          "9.31 MeV",
+          "26.72 MeV",
+          "931 MeV"
+        ],
+        "correct": "26.72 MeV"
+      },
+      {
+        "num": 29,
+        "question": "Which method of nuclear waste treatment involves melting waste with glass to create a stable solid?",
+        "options": [
+          "Transmutation",
+          "Synrock stabilization",
+          "Vitrification",
+          "Geologic disposal"
+        ],
+        "correct": "Vitrification"
+      },
+      {
+        "num": 30,
+        "question": "Which country generated the most nuclear electricity in 2016 according to the slides?",
+        "options": [
+          "France",
+          "China",
+          "Russia",
+          "United States"
+        ],
+        "correct": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 7",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What fraction of global annual energy demand does solar irradiation represent?",
+        "options": [
+          "~100 times our demand",
+          "~1,000 times our demand",
+          "~10,000 times our demand",
+          "~100,000 times our demand"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 2,
+        "question": "Which two main categories are used to classify solar energy harnessing systems?",
+        "options": [
+          "Solar-Chemical and Solar-Electric",
+          "Solar-Thermal and Solar-Electric",
+          "Passive Solar and Active Solar",
+          "Concentrated and Diffuse Solar"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 3,
+        "question": "What is the primary heat transfer and storage medium used in concentrated solar power systems?",
+        "options": [
+          "Water (H₂O)",
+          "Molten salt (60% NaNO₃ and 40% KNO₃)",
+          "Liquid sodium",
+          "Ethylene glycol"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 4,
+        "question": "What is the approximate depth of a solar pond?",
+        "options": [
+          "10 m",
+          "5 m",
+          "1 m",
+          "0.1 m"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 5,
+        "question": "Why do solar ponds suppress natural convection?",
+        "options": [
+          "To increase water evaporation",
+          "To allow bottom water temperature to increase significantly",
+          "To reduce salt concentration",
+          "To maximize reflection of sunlight"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 6,
+        "question": "What is a key limitation of solar ponds?",
+        "options": [
+          "They require extremely high temperatures to operate",
+          "They only work in cold climates",
+          "They lose significant heat to the atmosphere and produce power for a limited period",
+          "They cannot be used for electricity production"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 7,
+        "question": "How do photovoltaic cells generate electricity?",
+        "options": [
+          "By heating water to drive turbines",
+          "By converting solar radiation directly into electricity",
+          "By storing heat in molten salt",
+          "By using chemical reactions"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 8,
+        "question": "Compared to fossil fuels, how are photovoltaic devices described in the slides?",
+        "options": [
+          "Cheaper per kWh",
+          "More expensive",
+          "The same cost",
+          "Free after installation"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 9,
+        "question": "In the photosynthesis equation shown (nH₂O + nCO₂ → products), what is produced?",
+        "options": [
+          "(CH₂O)n + nO₂",
+          "CO₂ + H₂O",
+          "CH₄ + O₂",
+          "H₂ + CO₂"
+        ],
+        "correct": "Option 1"
+      },
+      {
+        "num": 10,
+        "question": "What does UV-Vis-NIR radiation primarily do to molecules?",
+        "options": [
+          "Causes molecules to vibrate",
+          "Causes molecules to rotate",
+          "Changes electronic distribution in molecules",
+          "Changes the spin of unpaired electrons"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 11,
+        "question": "What effect does infrared (IR) radiation have on molecules?",
+        "options": [
+          "Changes electronic distribution",
+          "Causes molecules to vibrate",
+          "Causes molecules to rotate",
+          "Frees electrons from atoms"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 12,
+        "question": "What happens when light of sufficient energy strikes silicon in a photovoltaic cell?",
+        "options": [
+          "Silicon melts and releases heat",
+          "An electron is freed and moves through the crystal lattice",
+          "Silicon changes color",
+          "A chemical reaction produces electricity"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 13,
+        "question": "In intrinsic semiconductors, what is the relationship between excited electrons and holes?",
+        "options": [
+          "There are twice as many electrons as holes",
+          "There are twice as many holes as electrons",
+          "The number of excited electrons and holes are equal",
+          "Holes are unrelated to electron excitation"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 14,
+        "question": "What is n-type silicon doped with?",
+        "options": [
+          "Gallium (fewer electrons)",
+          "Arsenic (excess electrons)",
+          "Boron (fewer electrons)",
+          "Phosphorus (fewer electrons)"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 15,
+        "question": "What dopant is used to create p-type silicon?",
+        "options": [
+          "Arsenic",
+          "Phosphorus",
+          "Gallium",
+          "Antimony"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 16,
+        "question": "What percentage of dopant atoms are present in doped silicon?",
+        "options": [
+          "5%",
+          "1%",
+          "0.5%",
+          "0.02%"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 17,
+        "question": "What forms at the interface between p-type and n-type silicon?",
+        "options": [
+          "A conduction zone",
+          "A depletion zone",
+          "A recombination layer",
+          "An insulation layer"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 18,
+        "question": "In a photovoltaic cell, what must happen for current to flow through an external load?",
+        "options": [
+          "Electrons and holes must recombine immediately",
+          "Carriers must diffuse away from each other before recombination",
+          "The depletion zone must be eliminated",
+          "Both layers must be the same type"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 19,
+        "question": "What is the band gap (Eg) for silicon (Si)?",
+        "options": [
+          "0.7 eV",
+          "1.1 eV",
+          "1.43 eV",
+          "6.0 eV"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 20,
+        "question": "What type of material is diamond (C) based on its band gap?",
+        "options": [
+          "Metal",
+          "Semiconductor",
+          "Superconductor",
+          "Insulator"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 21,
+        "question": "What is the band gap range for semiconductors?",
+        "options": [
+          "Eg = 0",
+          "Eg = 0.1 – ~3.0 eV",
+          "Eg > ~3.0 eV",
+          "Eg > 10.0 eV"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 22,
+        "question": "What does 1 eV represent?",
+        "options": [
+          "Energy of one mole of electrons",
+          "Energy gained by one electron moved across 1 volt potential difference",
+          "Energy needed to ionize one hydrogen atom",
+          "Total energy of one photon at 400 nm"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 23,
+        "question": "In the solar cell efficiency formula η = (Voc × Jsc × FF) / Pin, what does 'FF' stand for?",
+        "options": [
+          "Fundamental Factor",
+          "Fill Factor ('squareness' of the I-V curve)",
+          "Flux Function",
+          "Frequency Factor"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 24,
+        "question": "What is the power of incident radiation (Pin) used as the standard for solar cell testing?",
+        "options": [
+          "500 W/m²",
+          "750 W/m²",
+          "1000 W/m²",
+          "1367 W/m²"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 25,
+        "question": "How does short-circuit current (Jsc) change as band gap increases?",
+        "options": [
+          "Jsc increases",
+          "Jsc stays constant",
+          "Jsc decreases",
+          "Jsc first increases then decreases"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 26,
+        "question": "What share of the solar PV market do crystalline Si-based solar cells dominate?",
+        "options": [
+          "~50%",
+          "~65%",
+          "~75%",
+          "~85%"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 27,
+        "question": "Which of the following is a disadvantage of 1st generation (crystalline Si) solar cells?",
+        "options": [
+          "Low efficiency",
+          "Si is an indirect band gap material",
+          "Not commercially available",
+          "Very short lifespan"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 28,
+        "question": "What is a key advantage of 2nd generation thin-film solar cells over 1st generation?",
+        "options": [
+          "Higher efficiency",
+          "Less expensive and more flexible design",
+          "Larger band gap",
+          "Longer lifespan"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 29,
+        "question": "What does DSSC stand for?",
+        "options": [
+          "Direct Semiconductor Solar Conversion",
+          "Dye-Sensitized Solar Cell",
+          "Dual-Surface Solar Collector",
+          "Diffuse Solar Spectrum Cell"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 30,
+        "question": "By how much is DSSC manufacturing cost lower than a silicon line per megawatt output?",
+        "options": [
+          "~30% less",
+          "~50% less",
+          "~70% less",
+          "~90% less"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 31,
+        "question": "What is a key advantage of DSSCs over silicon PVs?",
+        "options": [
+          "Higher efficiency under all conditions",
+          "Outperforms silicon PVs in diffused light",
+          "No electrolyte required",
+          "No dye molecules needed"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 32,
+        "question": "What material class is used in perovskite solar cells?",
+        "options": [
+          "CdTe and CIS",
+          "Organic polymers only",
+          "Methylammonium lead halide perovskites (CH₃NH₃PbX₃)",
+          "Amorphous germanium"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 33,
+        "question": "What is the average annual solar power at the best locations on Earth?",
+        "options": [
+          "50–100 W/m²",
+          "100–150 W/m²",
+          "150–200 W/m²",
+          "250–300 W/m²"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 34,
+        "question": "What is the maximum incident solar radiation at an equatorial location?",
+        "options": [
+          "250 W/m²",
+          "500 W/m²",
+          "750 W/m²",
+          "1000 W/m²"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 35,
+        "question": "What is the approximate cost per watt for a residential solar system as stated in the slides?",
+        "options": [
+          "$0.50–$1.00 per watt",
+          "$1.00–$2.00 per watt",
+          "$2.50–$4.00 per watt",
+          "$5.00–$7.00 per watt"
+        ],
+        "correct": "Option 3"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 8",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What is the energy density of hydrogen as a fuel?",
+        "options": [
+          "50 MJ/kg",
+          "80 MJ/kg",
+          "140 MJ/kg",
+          "200 MJ/kg"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 2,
+        "question": "What is the energy density of conventional chemical fuels (e.g., octane)?",
+        "options": [
+          "~50 MJ/kg",
+          "~100 MJ/kg",
+          "~140 MJ/kg",
+          "~200 MJ/kg"
+        ],
+        "correct": "Option 1"
+      },
+      {
+        "num": 3,
+        "question": "Which energy storage method has the highest energy density according to the slides?",
+        "options": [
+          "Li-ion batteries (0.27–0.72 MJ/kg)",
+          "Compressed air at 300 atm (0.4 MJ/kg)",
+          "Hydrogen (140 MJ/kg)",
+          "Flywheels (0.1 MJ/kg)"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 4,
+        "question": "What is the chemical energy stored in hydrogen per kilogram?",
+        "options": [
+          "49,500 kJ/kg",
+          "80,000 kJ/kg",
+          "100,000 kJ/kg",
+          "142,700 kJ/kg"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 5,
+        "question": "Who coined the term 'hydrogen economy' and in what year?",
+        "options": [
+          "Nocera and Lewis, 1990",
+          "Bockris and Triner, 1970",
+          "Jules Verne, 1874",
+          "Faraday and Maxwell, 1850"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 6,
+        "question": "What is the fundamental challenge with hydrogen as a fuel source?",
+        "options": [
+          "Hydrogen is toxic to humans",
+          "Hydrogen does not exist as H₂(g) in the natural environment and must be extracted",
+          "Hydrogen cannot be stored at room temperature",
+          "Hydrogen reacts explosively with nitrogen"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 7,
+        "question": "What percentage of Earth's surface is covered by water?",
+        "options": [
+          "50%",
+          "60%",
+          "72%",
+          "85%"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 8,
+        "question": "What are the listed sources of hydrogen?",
+        "options": [
+          "Nuclear reactors, wind, and biomass",
+          "Fossil fuels (e.g., methane), organics, and water (salt)",
+          "Coal, natural gas, and petroleum",
+          "Seawater, ammonia, and methanol"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 9,
+        "question": "How much energy (in eV) is needed to dissociate H₂O into H₂ and O₂?",
+        "options": [
+          "0.5 eV",
+          "1.2 eV",
+          "1.8 eV",
+          "3.0 eV"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 10,
+        "question": "Water splitting (2H₂O → 2H₂ + O₂) is described as what type of process?",
+        "options": [
+          "Spontaneous and exothermic",
+          "Spontaneous and endothermic",
+          "Nonspontaneous — also called the reverse combustion process",
+          "Catalytic decomposition"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 11,
+        "question": "What is Steam Methane Reforming (SMR) primarily used for?",
+        "options": [
+          "Producing liquid hydrogen for fuel cells",
+          "Producing commercial bulk hydrogen and hydrogen for ammonia synthesis",
+          "Converting hydrogen into methane",
+          "Purifying hydrogen from water"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 12,
+        "question": "What catalyst and temperature conditions are used in SMR?",
+        "options": [
+          "Fe catalyst at 200–400°C",
+          "Pd catalyst at 500–700°C",
+          "Ni catalyst at 700–1100°C",
+          "Pt catalyst at 300–500°C"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 13,
+        "question": "What is the enthalpy change (ΔH) for the SMR reaction (CH₄ + H₂O → CO + 3H₂)?",
+        "options": [
+          "ΔH = −205 kJ/mol",
+          "ΔH = +205 kJ/mol",
+          "ΔH = −41 kJ/mol",
+          "ΔH = +41 kJ/mol"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 14,
+        "question": "What is the enthalpy change (ΔH) for the gas-shift reaction (CO + H₂O → CO₂ + H₂)?",
+        "options": [
+          "ΔH = +205 kJ/mol",
+          "ΔH = −205 kJ/mol",
+          "ΔH = −41 kJ/mol",
+          "ΔH = +41 kJ/mol"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 15,
+        "question": "What is a key contamination issue with hydrogen produced by steam reforming?",
+        "options": [
+          "Contaminated with nitrogen and argon",
+          "Contaminated with small amounts of CO₂ and CO",
+          "Contaminated with sulfur compounds",
+          "Contaminated with water vapor"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 16,
+        "question": "What is the approximate cost range for hydrogen produced by SMR?",
+        "options": [
+          "$0.10–$0.50/kg",
+          "$1.00–$5.00/kg",
+          "$10–$20/kg",
+          "$50–$100/kg"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 17,
+        "question": "What type of current does electrolysis use to split water?",
+        "options": [
+          "Alternating current (AC)",
+          "Direct current (DC)",
+          "Pulsed current",
+          "Either AC or DC"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 18,
+        "question": "What purity of hydrogen can electrolysis produce?",
+        "options": [
+          "90%",
+          "95%",
+          "99%",
+          "99.9995%"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 19,
+        "question": "What are the two basic types of low-temperature electrolyzers?",
+        "options": [
+          "Alkaline and proton exchange membrane (PEM)",
+          "Solid oxide and molten carbonate",
+          "Phosphoric acid and alkaline",
+          "PEM and direct methanol"
+        ],
+        "correct": "Option 1"
+      },
+      {
+        "num": 20,
+        "question": "What is the electrolyte used in alkaline electrolyzers?",
+        "options": [
+          "H₂SO₄ at pH = 1",
+          "NaCl at pH = 7",
+          "KOH at pH = 14",
+          "NaOH at pH = 10"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 21,
+        "question": "Why is an electrolyzer always required for water electrolysis?",
+        "options": [
+          "Pure water does not conduct electricity",
+          "Pure water reacts with electrodes",
+          "Pure water produces too much O₂",
+          "Pure water is too corrosive for electrodes"
+        ],
+        "correct": "Option 1"
+      },
+      {
+        "num": 22,
+        "question": "What is the minimum voltage required to split water via electrolysis?",
+        "options": [
+          "0.5 V",
+          "1.0 V",
+          "1.23 V",
+          "2.0 V"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 23,
+        "question": "At the anode in water electrolysis, what reaction occurs?",
+        "options": [
+          "4H⁺ + 4e⁻ → 2H₂",
+          "2H₂O → 4H⁺ + O₂ + 4e⁻",
+          "O₂ + 4H⁺ + 4e⁻ → 2H₂O",
+          "H₂ → 2H⁺ + 2e⁻"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 24,
+        "question": "What is Nocera's 'Wireless Leaf' (artificial leaf)?",
+        "options": [
+          "A plastic solar panel shaped like a leaf",
+          "A device using a Co-phosphate catalyst to oxidize water and split it into H₂ and O₂ using sunlight",
+          "A biological leaf engineered to produce electricity",
+          "A liquid organic hydrogen carrier shaped like a leaf"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 25,
+        "question": "What catalyst compound is used in Nocera's artificial leaf for water oxidation?",
+        "options": [
+          "Platinum-iridium alloy",
+          "Nickel-molybdenum-zinc (NiMoZn)",
+          "Co-phosphate compound (CoPi)",
+          "Iron-sulfur cluster"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 26,
+        "question": "At what overpotential does Nocera's artificial leaf oxidize water?",
+        "options": [
+          "600 mV",
+          "200 mV",
+          "60 mV",
+          "10 mV"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 27,
+        "question": "In a hydrogen fuel cell, what reaction occurs at the anode?",
+        "options": [
+          "O₂ + 2H⁺ + 2e⁻ → H₂O",
+          "H₂ → 2H⁺ + 2e⁻",
+          "2H₂O → O₂ + 4H⁺ + 4e⁻",
+          "H⁺ + e⁻ → ½H₂"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 28,
+        "question": "What is the byproduct of a hydrogen fuel cell?",
+        "options": [
+          "Carbon dioxide",
+          "Nitrogen oxides",
+          "Water",
+          "Methane"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 29,
+        "question": "What type of membrane is used in a proton exchange membrane (PEM) fuel cell?",
+        "options": [
+          "Ceramic membrane",
+          "Nafion membrane",
+          "Polypropylene membrane",
+          "Cellulose membrane"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 30,
+        "question": "What are the two main categories of hydrogen storage methods?",
+        "options": [
+          "Thermal-based and Chemical-based",
+          "Physical-based and Material-based",
+          "Compressed and Cryogenic",
+          "Solid and Gas phase"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 31,
+        "question": "Which of the following is an example of an adsorbent used for material-based hydrogen storage?",
+        "options": [
+          "LaNi₅H₆",
+          "NaAlH₄",
+          "MOF-5",
+          "NH₃BH₃"
+        ],
+        "correct": "Option 3"
+      },
+      {
+        "num": 32,
+        "question": "What is an example of a complex hydride used for hydrogen storage?",
+        "options": [
+          "MOF-5",
+          "BN-methyl cyclopentane",
+          "LaNi₅H₆",
+          "NaAlH₄"
+        ],
+        "correct": "Option 4"
+      },
+      {
+        "num": 33,
+        "question": "What does LOHC stand for in the context of hydrogen storage?",
+        "options": [
+          "Low-Oxygen Hydrogen Compound",
+          "Liquid Organic Hydrogen Carrier",
+          "Lightweight Oxidative Hydrogen Cell",
+          "Linear Organic Hydrogen Catalyst"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 34,
+        "question": "Which of the following is a disadvantage of hydrogen storage related to metal infrastructure?",
+        "options": [
+          "Hydrogen causes oxidation of copper pipes",
+          "Hydrogen embrittlement and decarburization of metals such as steel",
+          "Hydrogen reacts with aluminum to form explosive compounds",
+          "Hydrogen dissolves in iron creating rust"
+        ],
+        "correct": "Option 2"
+      },
+      {
+        "num": 35,
+        "question": "What is a key safety concern when storing hydrogen gas?",
+        "options": [
+          "It is odorless and non-reactive",
+          "It forms a powerful explosive mixture with air",
+          "It reacts with water to form acids",
+          "It is too dense to escape from containers"
+        ],
+        "correct": "Option 2"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 9",
+    "questions": [
+      {
+        "num": 1,
+        "question": "What percentage of total solar power received by Earth is converted into wind power?",
+        "options": [
+          "1%",
+          "2%",
+          "5%",
+          "10%"
+        ],
+        "correct": "2%"
+      },
+      {
+        "num": 2,
+        "question": "What is the kinetic energy per unit volume of an air stream with velocity V and density ρ?",
+        "options": [
+          "ρV",
+          "½ρV²",
+          "ρV²",
+          "¼ρV²"
+        ],
+        "correct": "½ρV²"
+      },
+      {
+        "num": 3,
+        "question": "If wind velocity is doubled, by what factor does available wind power increase?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "correct": "8"
+      },
+      {
+        "num": 4,
+        "question": "What is Betz's Limit (the theoretical maximum power efficiency of any wind turbine)?",
+        "options": [
+          "0.45",
+          "0.75",
+          "0.59",
+          "0.80"
+        ],
+        "correct": "0.59"
+      },
+      {
+        "num": 5,
+        "question": "What is the blade length range of modern wind turbines?",
+        "options": [
+          "5–20 m",
+          "10–50 m",
+          "20–120 m",
+          "50–200 m"
+        ],
+        "correct": "20–120 m"
+      },
+      {
+        "num": 6,
+        "question": "What is the tower height range for modern wind turbines?",
+        "options": [
+          "10–50 m",
+          "50–300 m",
+          "100–500 m",
+          "200–600 m"
+        ],
+        "correct": "50–300 m"
+      },
+      {
+        "num": 7,
+        "question": "Which of the following is the primary cause of wind patterns on Earth's surface?",
+        "options": [
+          "Earth's rotation alone",
+          "Uneven heating of Earth's surface by sunlight",
+          "Ocean currents",
+          "Gravitational pull of the Moon"
+        ],
+        "correct": "Uneven heating of Earth's surface by sunlight"
+      },
+      {
+        "num": 8,
+        "question": "What is the total solar energy converted into wind energy per year?",
+        "options": [
+          "1.1×10¹⁵ MJ",
+          "1.1×10¹⁷ MJ",
+          "1.1×10¹⁹ MJ",
+          "1.1×10²¹ MJ"
+        ],
+        "correct": "1.1×10¹⁷ MJ"
+      },
+      {
+        "num": 9,
+        "question": "What type of energy is associated with wind power?",
+        "options": [
+          "Potential energy",
+          "Thermal energy",
+          "Kinetic energy",
+          "Chemical energy"
+        ],
+        "correct": "Kinetic energy"
+      },
+      {
+        "num": 10,
+        "question": "What is the maximum power efficiency of the Sany SI-270150 onshore wind turbine?",
+        "options": [
+          "7.58 MW",
+          "12 MW",
+          "15 MW",
+          "26 MW"
+        ],
+        "correct": "15 MW"
+      },
+      {
+        "num": 11,
+        "question": "What is the rotor diameter of the Sany SI-270150 turbine?",
+        "options": [
+          "127 m",
+          "164 m",
+          "220 m",
+          "270 m"
+        ],
+        "correct": "270 m"
+      },
+      {
+        "num": 12,
+        "question": "How many households can the Sany SI-270150 turbine power annually?",
+        "options": [
+          "16,000",
+          "80,000",
+          "160,000",
+          "500,000"
+        ],
+        "correct": "160,000"
+      },
+      {
+        "num": 13,
+        "question": "What is the overall height of the Enercon E-126 turbine?",
+        "options": [
+          "127 m",
+          "164 m",
+          "198 m",
+          "270 m"
+        ],
+        "correct": "198 m"
+      },
+      {
+        "num": 14,
+        "question": "What is the capacity of the GE Haliade-X offshore wind turbine?",
+        "options": [
+          "7.58 MW",
+          "9.5 MW",
+          "12 MW",
+          "16 MW"
+        ],
+        "correct": "12 MW"
+      },
+      {
+        "num": 15,
+        "question": "What is the rotor diameter of the Dongfang Electric 26 MW turbine?",
+        "options": [
+          "220 m",
+          "252 m",
+          "270 m",
+          "310 m"
+        ],
+        "correct": "310 m"
+      },
+      {
+        "num": 16,
+        "question": "What is the capacity of the GWH252-16 MW offshore wind turbine?",
+        "options": [
+          "12 MW",
+          "15 MW",
+          "16 MW",
+          "26 MW"
+        ],
+        "correct": "16 MW"
+      },
+      {
+        "num": 17,
+        "question": "What is a significant drawback that limits the widespread adoption of wind power?",
+        "options": [
+          "High construction cost",
+          "Intermittency without suitable energy storage",
+          "Lack of suitable locations",
+          "High water consumption"
+        ],
+        "correct": "Intermittency without suitable energy storage"
+      },
+      {
+        "num": 18,
+        "question": "What is the typical efficiency range of wind turbines?",
+        "options": [
+          "5–15%",
+          "20–45%",
+          "60–75%",
+          "80–95%"
+        ],
+        "correct": "20–45%"
+      },
+      {
+        "num": 19,
+        "question": "What is the efficiency range of steam and gas turbines used in power plants?",
+        "options": [
+          "~40%",
+          "~60%",
+          "~80%",
+          "~95%"
+        ],
+        "correct": "~80%"
+      },
+      {
+        "num": 20,
+        "question": "At what wind speed do wind turbines typically shut down for safety?",
+        "options": [
+          "10 m/s",
+          "15 m/s",
+          "20 m/s",
+          "25 m/s"
+        ],
+        "correct": "25 m/s"
+      },
+      {
+        "num": 21,
+        "question": "At what wind speed is maximum power output typically achieved?",
+        "options": [
+          "4 m/s",
+          "10 m/s",
+          "15 m/s",
+          "25 m/s"
+        ],
+        "correct": "15 m/s"
+      },
+      {
+        "num": 22,
+        "question": "What is the purpose of the gear box in a wind turbine?",
+        "options": [
+          "To adjust blade pitch",
+          "To step up rotational speed from ~100 rpm to 2,000–3,000 rpm",
+          "To orient the turbine into the wind",
+          "To cool the generator"
+        ],
+        "correct": "To step up rotational speed from ~100 rpm to 2,000–3,000 rpm"
+      },
+      {
+        "num": 23,
+        "question": "What is the function of yaw bearings in a wind turbine?",
+        "options": [
+          "Increase blade rotation speed",
+          "Rotate the turbine system to face the wind direction",
+          "Connect blades to the generator",
+          "Control blade pitch angle"
+        ],
+        "correct": "Rotate the turbine system to face the wind direction"
+      },
+      {
+        "num": 24,
+        "question": "Which of the following is NOT listed as an environmental concern of wind power?",
+        "options": [
+          "Noise pollution",
+          "Bird injuries and mortality",
+          "Water contamination",
+          "Aesthetic pollution"
+        ],
+        "correct": "Water contamination"
+      },
+      {
+        "num": 25,
+        "question": "How much electricity could an average 3–6 MW onshore wind turbine produce annually?",
+        "options": [
+          "1 million kWh",
+          "More than 6 million kWh",
+          "500,000 kWh",
+          "10 million kWh"
+        ],
+        "correct": "More than 6 million kWh"
+      },
+      {
+        "num": 26,
+        "question": "According to December 2018 data, what percentage of Ontario's electricity demand was met by wind power?",
+        "options": [
+          "2%",
+          "5%",
+          "8%",
+          "15%"
+        ],
+        "correct": "8%"
+      },
+      {
+        "num": 27,
+        "question": "How many wind turbines were operating in Ontario as of December 2018?",
+        "options": [
+          "1,200",
+          "2,577",
+          "3,500",
+          "5,076"
+        ],
+        "correct": "2,577"
+      },
+      {
+        "num": 28,
+        "question": "What was Ontario's installed wind power capacity as of December 2018?",
+        "options": [
+          "1,200 MW",
+          "3,413 MW",
+          "5,076 MW",
+          "7,500 MW"
+        ],
+        "correct": "5,076 MW"
+      },
+      {
+        "num": 29,
+        "question": "What is the wind power availability per unit area according to realistic supply-demand analysis?",
+        "options": [
+          "0.5 W/m²",
+          "1.0 W/m²",
+          "2.5 W/m²",
+          "5.0 W/m²"
+        ],
+        "correct": "2.5 W/m²"
+      },
+      {
+        "num": 30,
+        "question": "Which of the following is an advantage of wind turbines compared to fossil fuel power plants?",
+        "options": [
+          "Higher power density",
+          "No water needed for cooling",
+          "Higher efficiency than steam turbines",
+          "Predictable output"
+        ],
+        "correct": "No water needed for cooling"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 10",
+    "questions": [
+      {
+        "num": 1,
+        "question": "How much heat power is transferred from Earth's interior to its surface?",
+        "options": [
+          "4.4 TW",
+          "44 TW",
+          "440 TW",
+          "4,400 TW"
+        ],
+        "correct": "44 TW"
+      },
+      {
+        "num": 2,
+        "question": "What is the temperature range of Earth's core?",
+        "options": [
+          "400–600°C",
+          "1,500–3,000°C",
+          "4,000–6,000°C",
+          "10,000–12,000°C"
+        ],
+        "correct": "4,000–6,000°C"
+      },
+      {
+        "num": 3,
+        "question": "What is the temperature range of Earth's mantle (magma)?",
+        "options": [
+          "500–1,000°C",
+          "1,500–3,000°C",
+          "4,000–6,000°C",
+          "6,000–8,000°C"
+        ],
+        "correct": "1,500–3,000°C"
+      },
+      {
+        "num": 4,
+        "question": "How thick is the Earth's crust?",
+        "options": [
+          "1–3 km",
+          "8–10 km",
+          "50–100 km",
+          "200–300 km"
+        ],
+        "correct": "8–10 km"
+      },
+      {
+        "num": 5,
+        "question": "How many major tectonic plates make up the Earth's crust?",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "12"
+        ],
+        "correct": "6"
+      },
+      {
+        "num": 6,
+        "question": "What temperatures can water reach in geothermal reservoirs near geological faults?",
+        "options": [
+          "50–100°C",
+          "100–150°C",
+          "200–300°C",
+          "400–500°C"
+        ],
+        "correct": "200–300°C"
+      },
+      {
+        "num": 7,
+        "question": "What is the primary source of geothermal energy produced in Earth's interior?",
+        "options": [
+          "Solar radiation",
+          "Chemical reactions",
+          "Nuclear reactions",
+          "Gravitational compression"
+        ],
+        "correct": "Nuclear reactions"
+      },
+      {
+        "num": 8,
+        "question": "What is the approximate temperature a few meters below Earth's surface, as used by geothermal heat pumps?",
+        "options": [
+          "32°F (0°C)",
+          "50°F (10°C)",
+          "75°F (24°C)",
+          "100°F (38°C)"
+        ],
+        "correct": "50°F (10°C)"
+      },
+      {
+        "num": 9,
+        "question": "In winter, how does a geothermal heat pump work?",
+        "options": [
+          "It pumps cold air from the ground into the building",
+          "It pulls heat from the ground into the building",
+          "It releases heat from the building into the ground",
+          "It burns geothermal fluid to heat the building"
+        ],
+        "correct": "It pulls heat from the ground into the building"
+      },
+      {
+        "num": 10,
+        "question": "What temperature range characterizes dry steam geothermal reservoirs?",
+        "options": [
+          "50–100°C",
+          "120–160°C",
+          "200–280°C",
+          "400–500°C"
+        ],
+        "correct": "200–280°C"
+      },
+      {
+        "num": 11,
+        "question": "What temperature range characterizes geo-pressured geothermal reservoirs?",
+        "options": [
+          "50–80°C",
+          "120–160°C",
+          "200–280°C",
+          "300–400°C"
+        ],
+        "correct": "120–160°C"
+      },
+      {
+        "num": 12,
+        "question": "Which geothermal resource type consists of hot rocks at significant depth without nearby fluid?",
+        "options": [
+          "Dry steam",
+          "Geo-pressured",
+          "Liquid water",
+          "Hot, dry rock"
+        ],
+        "correct": "Hot, dry rock"
+      },
+      {
+        "num": 13,
+        "question": "Which geothermal resources are most desirable but limited in availability?",
+        "options": [
+          "Geo-pressured and hot dry rock",
+          "Dry steam and high-temperature liquid water",
+          "Binary and hybrid",
+          "Low temperature liquid and geo-pressured"
+        ],
+        "correct": "Dry steam and high-temperature liquid water"
+      },
+      {
+        "num": 14,
+        "question": "How does a dry steam geothermal power plant work?",
+        "options": [
+          "It heats a secondary fluid to spin a turbine",
+          "It uses steam directly from the ground to spin a turbine",
+          "It flashes high-pressure water into steam using low-pressure tanks",
+          "It burns geothermal gas to generate electricity"
+        ],
+        "correct": "It uses steam directly from the ground to spin a turbine"
+      },
+      {
+        "num": 15,
+        "question": "How does a flash steam geothermal plant generate electricity?",
+        "options": [
+          "By heating a secondary low-boiling-point fluid",
+          "By using dry steam piped directly from underground",
+          "By moving high-pressure water into low-pressure tanks to produce steam",
+          "By burning geothermal gases"
+        ],
+        "correct": "By moving high-pressure water into low-pressure tanks to produce steam"
+      },
+      {
+        "num": 16,
+        "question": "What makes a binary cycle geothermal plant different from flash steam plants?",
+        "options": [
+          "It uses dry steam directly from the ground",
+          "It uses low-temperature geothermal water to heat a secondary fluid with a low boiling point",
+          "It burns fossil fuels alongside geothermal steam",
+          "It uses multiple flash stages to maximize steam production"
+        ],
+        "correct": "It uses low-temperature geothermal water to heat a secondary fluid with a low boiling point"
+      },
+      {
+        "num": 17,
+        "question": "What is the primary gaseous emission from geothermal power plants?",
+        "options": [
+          "Methane (CH₄)",
+          "Sulfur dioxide (SO₂)",
+          "CO₂ and trace H₂S",
+          "Nitrogen oxides (NOₓ)"
+        ],
+        "correct": "CO₂ and trace H₂S"
+      },
+      {
+        "num": 18,
+        "question": "How does CO₂ emissions from geothermal plants compare to fossil fuel plants per kWh?",
+        "options": [
+          "2–5 times less",
+          "10–50 times less",
+          "1,000–5,000 times less",
+          "About the same"
+        ],
+        "correct": "1,000–5,000 times less"
+      },
+      {
+        "num": 19,
+        "question": "What concentration limit is cited for H₂S emissions from geothermal plants?",
+        "options": [
+          "Less than 1 ppm",
+          "Less than 10 ppm",
+          "Less than 100 ppm",
+          "Less than 1,000 ppm"
+        ],
+        "correct": "Less than 1 ppm"
+      },
+      {
+        "num": 20,
+        "question": "How does thermal pollution from geothermal plants compare to fossil fuel plants?",
+        "options": [
+          "1.7–2.5 times less than fossil fuel plants",
+          "About the same as fossil fuel plants",
+          "1.7–2.5 times more than fossil fuel plants",
+          "5–10 times more than fossil fuel plants"
+        ],
+        "correct": "1.7–2.5 times more than fossil fuel plants"
+      },
+      {
+        "num": 21,
+        "question": "Which country had the highest installed geothermal capacity as of July 2019?",
+        "options": [
+          "Indonesia",
+          "Philippines",
+          "Iceland",
+          "United States"
+        ],
+        "correct": "United States"
+      },
+      {
+        "num": 22,
+        "question": "What was the total global installed geothermal capacity as of July 2019?",
+        "options": [
+          "1,900 MW",
+          "5,000 MW",
+          "14,900 MW",
+          "70,000 MW"
+        ],
+        "correct": "14,900 MW"
+      },
+      {
+        "num": 23,
+        "question": "What is the installed geothermal capacity of the United States as of July 2019?",
+        "options": [
+          "1,948 MW",
+          "3,653 MW",
+          "5,836 MW",
+          "6,447 MW"
+        ],
+        "correct": "3,653 MW"
+      },
+      {
+        "num": 24,
+        "question": "What type of geothermal plant is the Hellisheidi Power Station in Iceland?",
+        "options": [
+          "Dry steam",
+          "Flash steam",
+          "Binary cycle",
+          "Hybrid geothermal-fossil"
+        ],
+        "correct": "Flash steam"
+      },
+      {
+        "num": 25,
+        "question": "What is the capacity of the Hellisheidi Power Station in Iceland?",
+        "options": [
+          "155 MW",
+          "303 MW",
+          "520 MW",
+          "770 MW"
+        ],
+        "correct": "303 MW"
+      },
+      {
+        "num": 26,
+        "question": "What is the power generation capacity of The Geysers Complex in California?",
+        "options": [
+          "770 MW",
+          "1,005 MW",
+          "1,347 MW",
+          "1,520 MW"
+        ],
+        "correct": "1,520 MW"
+      },
+      {
+        "num": 27,
+        "question": "What percentage of global geothermal energy does the Lardarello Complex in Italy produce?",
+        "options": [
+          "5%",
+          "10%",
+          "20%",
+          "25%"
+        ],
+        "correct": "10%"
+      },
+      {
+        "num": 28,
+        "question": "How many power plants make up The Geysers Complex?",
+        "options": [
+          "10",
+          "15",
+          "22",
+          "34"
+        ],
+        "correct": "22"
+      },
+      {
+        "num": 29,
+        "question": "What has Canada primarily used geothermal energy for to date?",
+        "options": [
+          "Electricity generation",
+          "Heating applications",
+          "Industrial cooling",
+          "Desalination"
+        ],
+        "correct": "Heating applications"
+      },
+      {
+        "num": 30,
+        "question": "According to the slides, what is a potential benefit of soil subsidence caused by geothermal plants?",
+        "options": [
+          "It creates new geothermal reservoirs",
+          "It can release mechanical stresses that alleviate or reduce earthquakes",
+          "It improves water quality in nearby areas",
+          "It increases the thermal output of the plant"
+        ],
+        "correct": "It can release mechanical stresses that alleviate or reduce earthquakes"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 11",
+    "questions": [
+      {
+        "num": 1,
+        "question": "Which of the following is NOT listed as a form of hydro power in the slides?",
+        "options": [
+          "Tidal power",
+          "Ocean current power",
+          "Solar thermal power",
+          "Wave energy conversion"
+        ],
+        "correct": "Solar thermal power"
+      },
+      {
+        "num": 2,
+        "question": "How does hydro power differ from wind power in terms of reliability?",
+        "options": [
+          "Hydro power is more intermittent than wind",
+          "Hydro power sources are either continuous or predictably variable",
+          "Wind power is more predictable than hydro power",
+          "Both are equally intermittent"
+        ],
+        "correct": "Hydro power sources are either continuous or predictably variable"
+      },
+      {
+        "num": 3,
+        "question": "What type of energy do ocean waves primarily contain?",
+        "options": [
+          "Kinetic energy",
+          "Thermal energy",
+          "Potential energy",
+          "Chemical energy"
+        ],
+        "correct": "Potential energy"
+      },
+      {
+        "num": 4,
+        "question": "How does an attenuator wave energy converter generate power?",
+        "options": [
+          "It traps water in a reservoir and releases it through turbines",
+          "Long floating segments bob up and down, connected to hydraulic pumps",
+          "It compresses air to spin a turbine",
+          "It uses pressure differentials from submerged waves"
+        ],
+        "correct": "Long floating segments bob up and down, connected to hydraulic pumps"
+      },
+      {
+        "num": 5,
+        "question": "How is an attenuator WEC device oriented relative to the waves?",
+        "options": [
+          "Perpendicular to the waves",
+          "At a 45-degree angle to the waves",
+          "Parallel to the waves",
+          "Against the wave direction"
+        ],
+        "correct": "Parallel to the waves"
+      },
+      {
+        "num": 6,
+        "question": "Which WEC device is described as widely used across the world and uses waves to push a top toward a base to generate electricity?",
+        "options": [
+          "Attenuator",
+          "Point absorber",
+          "Overtopping device",
+          "Oscillating water column"
+        ],
+        "correct": "Point absorber"
+      },
+      {
+        "num": 7,
+        "question": "How does an oscillating wave surge converter capture energy?",
+        "options": [
+          "It captures water in a reservoir as waves break over it",
+          "An arm oscillates like a pendulum on a pivoted joint in response to wave motion",
+          "It uses a rubber tube to create pressure bulges",
+          "It sits on the seabed and rises and falls with pressure changes"
+        ],
+        "correct": "An arm oscillates like a pendulum on a pivoted joint in response to wave motion"
+      },
+      {
+        "num": 8,
+        "question": "What is the orientation of Oscillating Water Column (OWC) devices relative to the wave direction?",
+        "options": [
+          "Parallel to the waves",
+          "At 45 degrees to the waves",
+          "Perpendicular to the waves",
+          "At 30 degrees to the waves"
+        ],
+        "correct": "Perpendicular to the waves"
+      },
+      {
+        "num": 9,
+        "question": "What type of WEC classifier is the Oscillating Water Column considered?",
+        "options": [
+          "An attenuator",
+          "A point absorber",
+          "A terminator",
+          "A pressure differential device"
+        ],
+        "correct": "A terminator"
+      },
+      {
+        "num": 10,
+        "question": "Where is a submerged pressure differential WEC device located?",
+        "options": [
+          "Floating on the ocean surface",
+          "Anchored midwater",
+          "On the seabed",
+          "Attached to the shoreline"
+        ],
+        "correct": "On the seabed"
+      },
+      {
+        "num": 11,
+        "question": "What is the main structural component of bulge wave technology?",
+        "options": [
+          "A rigid metal plate mounted on a pivot",
+          "A rubber tube filled with water moored to the seabed",
+          "A floating barge with hydraulic pumps",
+          "An enclosed venturi-shaped duct"
+        ],
+        "correct": "A rubber tube filled with water moored to the seabed"
+      },
+      {
+        "num": 12,
+        "question": "In bulge wave technology, where is the turbine located to generate power?",
+        "options": [
+          "At the stern where water enters",
+          "At the midpoint of the tube",
+          "At the bow where water exits",
+          "Above the water surface"
+        ],
+        "correct": "At the bow where water exits"
+      },
+      {
+        "num": 13,
+        "question": "What two motion types does a rotating mass WEC device harness?",
+        "options": [
+          "Rolling and pitching",
+          "Heaving and swaying",
+          "Surging and yawing",
+          "Bobbing and spinning"
+        ],
+        "correct": "Heaving and swaying"
+      },
+      {
+        "num": 14,
+        "question": "What causes tides according to the slides?",
+        "options": [
+          "Wind patterns and ocean currents",
+          "Gravitational pull of the sun, moon, and Earth",
+          "Rotational forces of the Earth alone",
+          "Thermal differences in ocean water"
+        ],
+        "correct": "Gravitational pull of the sun, moon, and Earth"
+      },
+      {
+        "num": 15,
+        "question": "What are the two main classes of tidal power technology?",
+        "options": [
+          "Tidal barrage and tidal kite",
+          "Tidal range and tidal stream",
+          "Dynamic tidal power and tidal lagoon",
+          "Horizontal axis and vertical axis turbines"
+        ],
+        "correct": "Tidal range and tidal stream"
+      },
+      {
+        "num": 16,
+        "question": "How does tidal range technology generate electricity?",
+        "options": [
+          "It harnesses fast-flowing underwater currents to spin turbines",
+          "It relies on the rise and fall of sea level using dam-like structures",
+          "It uses oscillating hydrofoils in tidal currents",
+          "It employs an Archimedes screw to capture tidal flow"
+        ],
+        "correct": "It relies on the rise and fall of sea level using dam-like structures"
+      },
+      {
+        "num": 17,
+        "question": "Which of the following is NOT a tidal range technology listed in the slides?",
+        "options": [
+          "Tidal barrage",
+          "Tidal lagoon",
+          "Dynamic tidal power",
+          "Tidal kite"
+        ],
+        "correct": "Tidal kite"
+      },
+      {
+        "num": 18,
+        "question": "Tidal stream technology is analogous to which other form of energy generation?",
+        "options": [
+          "Hydroelectric dams",
+          "Solar photovoltaic panels",
+          "Underwater wind turbines",
+          "Geothermal flash steam plants"
+        ],
+        "correct": "Underwater wind turbines"
+      },
+      {
+        "num": 19,
+        "question": "What surface temperature range is found in tropical ocean waters that enables OTEC?",
+        "options": [
+          "10–15°C",
+          "18–22°C",
+          "27–32°C",
+          "35–40°C"
+        ],
+        "correct": "27–32°C"
+      },
+      {
+        "num": 20,
+        "question": "What is the temperature range of deep ocean water (below 30 m depth) used in OTEC?",
+        "options": [
+          "0–3°C",
+          "5–8°C",
+          "12–15°C",
+          "18–22°C"
+        ],
+        "correct": "5–8°C"
+      },
+      {
+        "num": 21,
+        "question": "What is the expected efficiency range of actual OTEC power plants?",
+        "options": [
+          "0.5–1%",
+          "1–2%",
+          "5–10%",
+          "15–20%"
+        ],
+        "correct": "1–2%"
+      },
+      {
+        "num": 22,
+        "question": "What fraction of Ontario Power Generation's electricity production comes from hydroelectric power?",
+        "options": [
+          "About one-quarter",
+          "More than one-third",
+          "About one-half",
+          "More than two-thirds"
+        ],
+        "correct": "More than one-third"
+      },
+      {
+        "num": 23,
+        "question": "How many hydroelectric stations does OPG operate?",
+        "options": [
+          "24",
+          "29",
+          "66",
+          "241"
+        ],
+        "correct": "66"
+      },
+      {
+        "num": 24,
+        "question": "What is the generating capacity of OPG's largest hydroelectric station, Sir Adam Beck II?",
+        "options": [
+          "800 kW",
+          "1,045 MW",
+          "1,499 MW",
+          "2,119 MW"
+        ],
+        "correct": "1,499 MW"
+      },
+      {
+        "num": 25,
+        "question": "How many homes can Sir Adam Beck II Generating Station power annually?",
+        "options": [
+          "14,000",
+          "50,000",
+          "100,000",
+          "140,000"
+        ],
+        "correct": "140,000"
+      },
+      {
+        "num": 26,
+        "question": "What was Canada's total hydroelectricity capacity in 2017?",
+        "options": [
+          "33,100 MW",
+          "66,000 MW",
+          "80,764 MW",
+          "100,000 MW"
+        ],
+        "correct": "80,764 MW"
+      },
+      {
+        "num": 27,
+        "question": "Which is the largest hydroelectric facility in Canada by capacity?",
+        "options": [
+          "Churchill Falls",
+          "Sir Adam Beck II",
+          "La Grande 4",
+          "Robert-Bourassa"
+        ],
+        "correct": "Robert-Bourassa"
+      },
+      {
+        "num": 28,
+        "question": "What percentage of world hydroelectric power did Canada generate in 2016?",
+        "options": [
+          "5%",
+          "7%",
+          "10%",
+          "15%"
+        ],
+        "correct": "10%"
+      },
+      {
+        "num": 29,
+        "question": "Which country generates the highest share of its electricity from hydropower (96%)?",
+        "options": [
+          "Brazil",
+          "Canada",
+          "Venezuela",
+          "Norway"
+        ],
+        "correct": "Norway"
+      },
+      {
+        "num": 30,
+        "question": "What percentage of Canada's total primary energy supply comes from renewable sources?",
+        "options": [
+          "9%",
+          "13%",
+          "17%",
+          "22%"
+        ],
+        "correct": "17%"
+      }
+    ]
+  }
+]
